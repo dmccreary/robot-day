@@ -30,4 +30,54 @@
          <lastmod>2023-12-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/</loc>
+         <lastmod>2023-12-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/batteries/</loc>
+         <lastmod>2023-12-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/code/</loc>
+         <lastmod>2023-12-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/computer-vision/</loc>
+         <lastmod>2023-12-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/displays/</loc>
+         <lastmod>2023-12-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/donkey-car/</loc>
+         <lastmod>2023-12-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/h-bridge/</loc>
+         <lastmod>2023-12-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/motors/</loc>
+         <lastmod>2023-12-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/pwm/</loc>
+         <lastmod>2023-12-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/sensors/</loc>
+         <lastmod>2023-12-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
