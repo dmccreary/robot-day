@@ -10,8 +10,18 @@ nav:
   - Process: process.md
   - Concepts: concepts.md
   - Tables: tables.md
+  - Activities:
+        - activities/index.md
+        - activities/batteries.md
+        - activities/code.md
+        - activities/computer-vision.md
+        - activities/displays.md
+        - activities/donkey-car.md
+        - activities/h-bridge.md
+        - activities/motors.md
+        - activities/pwm.md
+        - activities/sensors.md
   - Contact: contact.md
-
  
 # CoderDojo Microsite Standards from here down
 edit_uri: 'blob/master/docs'
