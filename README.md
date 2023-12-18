@@ -1,6 +1,8 @@
 # Robot Day GitHub Repo
 
-    https://dmccreary.github.io/robot-day/
+Link to website:
+
+    [https://dmccreary.github.io/robot-day/](https://dmccreary.github.io/robot-day/)
 
 ## Build Instructions
 
