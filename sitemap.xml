@@ -81,6 +81,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/pot-lab/</loc>
+         <lastmod>2023-12-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/pwm/</loc>
          <lastmod>2023-12-28</lastmod>
          <changefreq>daily</changefreq>
@@ -92,6 +97,11 @@
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/sensors/</loc>
+         <lastmod>2023-12-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/time-of-flight/</loc>
          <lastmod>2023-12-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
