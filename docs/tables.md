@@ -1,6 +1,10 @@
 # Robot Day Tables
 
-Tables are logical groupings of activities.  At most events, a table is a six-foot wide table with hands-on activities on it.  The focus is to get kids to use their hands and fingers to make a change and see how their actions change the world.  This can be seeing a motor spinning, and LED brightness change or a display changing a pattern.
+Tables are logical groupings of activities.  At most events, a table is a six-foot by 2.5-foot table with one or more hands-on activities on it.  The focus is to get kids to use their hands and fingers to make a change and see how their actions change the world.  This can be seeing a motor spinning, an LED brightness change, a sensor showing a value, or a display changing a pattern.
+
+The key is to design activities in that kids must use their bodies to interact
+and trigger a change in what they see or hear.  They must be given time
+to wiggle their hands to see how sensors can see the world around them.
 
 ## Welcome Tables
 

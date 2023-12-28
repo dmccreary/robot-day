@@ -1,6 +1,6 @@
-# Robot Day!
+# Welcome to Robot Day!
 
-![](./img/robot-day-banner.png)
+![](./img/robot-day-banner-v2.png)
 
 Welcome to the Robot Day website.  This website contains resources
 to help your organization host a fun kid-friendly robot day
