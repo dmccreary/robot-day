@@ -434,6 +434,17 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    RGB Box
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -443,6 +454,46 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#parts-list" class="md-nav__link">
+    Parts List
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wiring-diagram" class="md-nav__link">
+    Wiring Diagram
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sample-code" class="md-nav__link">
+    Sample Code
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -674,6 +725,35 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#parts-list" class="md-nav__link">
+    Parts List
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wiring-diagram" class="md-nav__link">
+    Wiring Diagram
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sample-code" class="md-nav__link">
+    Sample Code
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -691,7 +771,64 @@
 
 
 <h1 id="rgb-box">RGB Box</h1>
-<p><img alt="" src="../../img/rgb-box.jpg" /></p>
+<p><img alt="RGB Box" src="../../img/rgb-box.jpg" /></p>
+<p>This little box is one of the favorite kits of our staff.
+It has a power switch and three potentiometers (pots) hooked
+up to a Raspberry Pi Pico.  The pots control the brightness
+of the red, green and blue pixels on a low-cost LED strip
+of about 10 pixels.  The total part cost is around $11.</p>
+<h2 id="parts-list">Parts List</h2>
+<ol>
+<li>Raspberry Pi Pico - $4</li>
+<li>10-element NeoPixel Strip (WS2811B) - $3</li>
+<li>Breadboard - $1.50</li>
+<li>3 potentiometers - 50 cents each</li>
+<li>3 AA battery pack - $1</li>
+</ol>
+<h2 id="wiring-diagram">Wiring Diagram</h2>
+<h2 id="sample-code">Sample Code</h2>
+<p>```py</p>
+<h1 id="this-kit-assumes-we-have-three-pots-hooked-to-pins-26-27-and-28-of-the-pico">this kit assumes we have three POTs hooked to pins 26, 27 and 28 of the Pico</h1>
+<p>from machine import ADC, Pin
+from utime import sleep
+from neopixel import NeoPixel</p>
+<p>NEOPIXEL_PIN = 0
+NUMBER_PIXELS = 10
+strip = NeoPixel(Pin(NEOPIXEL_PIN), NUMBER_PIXELS)</p>
+<h1 id="this-is-the-built-in-led-on-the-pico-which-we-toggle-on-and-off-to-show-sampling">this is the built-in LED on the Pico which we toggle on and off to show sampling</h1>
+<p>led = Pin(25, Pin.OUT)</p>
+<h1 id="adc0-is-gpio-26-connect-to-row-10-the-right-side">ADC0 is GPIO 26.  Connect to row 10 the right side</h1>
+<p>pot1 = ADC(28) # red
+pot2 = ADC(27) # green
+pot3 = ADC(26) # blue</p>
+<p>MAX_DELAY = .5 # seconds</p>
+<h1 id="global-variables">global variables</h1>
+<p>delay = .05</p>
+<h1 id="repeat-forever">repeat forever</h1>
+<p>while True:
+    # if we have the POTs wired backwards we subtract to get the value
+    # read the value from the pot and shift 6 bits
+    # The brightness of each LED ranges from 0 to 255 - 8 bits
+    pot_value1 = pot1.read_u16() &gt;&gt; 8 
+    pot_value2 = pot2.read_u16() &gt;&gt; 8
+    pot_value3 = pot3.read_u16() &gt;&gt; 8
+    print("rgb", pot_value1, pot_value2, pot_value3)</p>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span>
+<span class="normal">3</span>
+<span class="normal">4</span>
+<span class="normal">5</span>
+<span class="normal">6</span>
+<span class="normal">7</span>
+<span class="normal">8</span></pre></div></td><td class="code"><div><pre><span></span><code># update the strip with our new values
+for i in range(NUMBER_PIXELS):
+    strip[i] = (pot_value3, pot_value2, pot_value1)
+strip.write()
+
+sleep(delay)
+led.toggle()
+```
+</code></pre></div></td></tr></table></div>
 
 
   
