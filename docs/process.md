@@ -23,7 +23,7 @@ graph LR
     D -> E[Assessment]
 -->
 
-(![Process Steps](./img/process-steps.png))
+![Process Steps](./img/process-steps.png)
 
 ## Greeter
 
@@ -31,12 +31,28 @@ Do you like robots?
 
 Would you like to take our robot challenge?
 
-## Checkin
+## Checking In
+
+![](./img/student-checklists.jpg)
 
 Write your name at the top of this form.  If you visit all
 six tables you will get this cool badge!
 
 ## Table Activities
+
+
+
+A typical list of tables for a large 24'x36' foot room will have the following tables:
+
+1. Checkin Table
+2. Batteries Table
+3. Motors Table
+4. Sensors Table
+5. Displays Table
+5. MicroControllers Table
+
+Which leads to the [Robot Corral](./glossary.md#robot-corral)
+
 
 ## Get Badge
 
