@@ -33,6 +33,6 @@ This dialog snippet has been repeated hundreds of times at our events.  We alway
 
 This story illustrates the need for an adaptive set of activities for anyone who enters our events.  Although the event might only be advertised to ages 5-12, you can bet that younger or older siblings will attend.
 
-The [RGB Box](./activities/rgb-box.md) is somewhat of a special case.  It fits magically into the need for a simple, colorful hands-on activity for our youngest audience.  Knowing how to create these devices and when to use them will be part of our lessons.
+The [RGB Box](./activities/rgb-box.md) is somewhat of a special case.  It fits magically into the need for a simple, colorful hands-on activity for our youngest audience.  It is a favorite of our staff. Knowing how to create these devices and when to use them will be part of our lessons.
 
 The underlying goal is to be as flexible as possible and not force activities that are not age-appropriate for your audience.  Having a rich set of dialogs ready for each age group used to be challenging.  With tools like ChatGPT, lesson plans for all ages can be generated and taped to the back of the presentation boards.
