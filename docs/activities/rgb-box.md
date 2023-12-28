@@ -19,10 +19,9 @@ of about 10 pixels.  The total part cost is around $11.
 ## Wiring Diagram
 
 
-
 ## Sample Code
 
-```py
+```pyton
 # this kit assumes we have three POTs hooked to pins 26, 27 and 28 of the Pico
 from machine import ADC, Pin
 from utime import sleep
@@ -62,4 +61,4 @@ while True:
     
     sleep(delay)
     led.toggle()
-    ```
+```
