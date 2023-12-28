@@ -12,18 +12,19 @@ nav:
   - Concepts: concepts.md
   - Tables: tables.md
   - Activities:
-        - activities/index.md
-        - activities/batteries.md
-        - activities/rgb-box.md
-        - activities/code.md
-        - activities/computer-vision.md
-        - activities/displays.md
-        - activities/donkey-car.md
-        - activities/h-bridge.md
-        - activities/motors.md
-        - activities/pwm.md
-        - activities/sensors.md
-  - Glossary: glossary.md
+    - activities/index.md
+    - Batteries: activities/batteries.md
+    - Motors: activities/motors.md
+    - H-Bridge: activities/h-bridge.md
+    - Pulse Width: activities/pwm.md
+    - RGB Box: activities/rgb-box.md
+    - Sensors: activities/sensors.md
+    - Time of Flight: activities/time-of-flight.md
+    - Displays: activities/displays.md
+    - Code: activities/code.md
+    - Computer Vision: activities/computer-vision.md
+    - Donkey Car: activities/donkey-car.md
+  - Glossary of Terms: glossary.md
   - Contact: contact.md
  
 # CoderDojo Microsite Standards from here down
