@@ -29,3 +29,10 @@ is how we compare how quickly the old turtle Arduino compares with the
 ultra-fast rabbit of the Raspberry Pi Pico.
 
 ![](../img/clock-speed.png)
+
+## Microcontrollers on Breadboards
+
+Most of our projects place a Raspberry Pi Pico directly on a breadboard.
+The exception is when we use the Cytron Maker Pi RP2040 to drive our robots.
+
+![](../img/microcontrollers-on-breadboards.jpeg)

@@ -12,12 +12,13 @@ nav:
   - Concepts: concepts.md
   - Tables: tables.md
   - Activities:
-    - activities/index.md
+    - Introduction: activities/index.md
     - Batteries: activities/batteries.md
     - Motors: activities/motors.md
     - H-Bridge: activities/h-bridge.md
     - Pulse Width: activities/pwm.md
     - RGB Box: activities/rgb-box.md
+    - Moving Rainbow: activities/moving-rainbow.md
     - Sensors: activities/sensors.md
     - Time of Flight: activities/time-of-flight.md
     - Displays: activities/displays.md
