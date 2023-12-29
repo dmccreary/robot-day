@@ -1,5 +1,7 @@
 # Robot Labs Displays
 
+![](../img/displays.jpg)
+
 ## How much RAM does a 128x64 monochrome frame buffer take?
 
 ```py
