@@ -25,27 +25,29 @@ graph LR
 
 ![Process Steps](./img/process-steps.png)
 
-## Greeter
+## Sample Greeting Dialog
 
-Do you like robots?
+**Greeter:** *Do you like robots? Yes? Would you like to take our robot challenge and earn this cool robot badge? Yes? Cool!*
 
-Would you like to take our robot challenge?
+Note: if the student looks apprehensive you can just suggest they look around
+and let the greeter know if they want to take the challenge later.
+
+[Greeter brings student over to the registration table]
 
 ## Checking In
 
 ![](./img/student-checklists.jpg)
 
-Write your name at the top of this form.  If you visit all
-six tables you will get this cool badge!
+**Greeter:** *Write your name at the top of this form.  If you visit all
+six tables you will get this cool badge!  You can start
+at the Batteries table herel*
 
 ## Table Activities
-
-
 
 A typical list of tables for a large 24'x36' foot room will have the following tables:
 
 1. Checkin Table
-2. Batteries Table
+2. [Batteries Table](./activities/batteries.md)
 3. Motors Table
 4. Sensors Table
 5. Displays Table

@@ -1,22 +1,22 @@
 # About The Robot Day Site
 
-This Robot Day website was created by [Dan McCreary](https://www.linkedin.com/in/danmccreary/) after he choreographed a successful robot day in December of 2023.  Although he had lots of material for helping organizations create their own robot days, the content was spread over many websites.  It was time for all the content
-used in creating a Robot Day to come together as one unified resource for
-everyone to share.
+This Robot Day website was created by [Dan McCreary](https://www.linkedin.com/in/danmccreary/) after he choreographed a successful Robot Day in December of 2023.  Although he had lots of material for helping organizations create their own Robot Days, the content was spread over many websites.  It was time for all the content
+used in creating a Robot Day to come together as one unified resource to support
+fast searching and for everyone to share.
 
 ## Philosophy
 
 If you ask almost any kid these days the question "Do you like robots?" you will invariably get the answer "Yes!".  Kids have a fundamental curiosity about
-machines that move around.  Our goal is to leverage this innate curiosity about the world to teach STEM concepts - and allow the kids to have a lot of fun while they are learning.  So our core value statement is "Help kids have fun while learning STEM!".
+machines that move around.  Our goal is to **leverage this innate curiosity about the world to teach STEM concepts** - and allow the kids to have a lot of fun while they are learning.  So our core value statement is "Help kids have fun while learning STEM!".
 
 ## Focus on Diversity, Equity and Inclusion
 
-Although there are many wonderful robot kits you can assemble to bring to Robot Day, many of them are out of the price range of many schools, libraries and community centers.  This means that only the wealthy schools can afford to
+Although there are many wonderful robot kits you can assemble to bring to Robot Day, many of them are out of the price range of many schools, libraries and community centers.  This means that only wealthy schools can afford to
 create great educational experiences for students.
 
 But what if we could lower the cost of robotics "labs" to just tens of dollars?  This would mean that even organizations with modest budgets could afford to put on a Robot Day.  Creating fun but low-cost robotics activities takes some clever engineering and testing.
 
-We hope this website inspires every school, library, community center or summer program to host their robot day!
+We hope this website inspires every school, library, community center, scout troupe, or summer camp program to host their own Robot Day!
 
 ## Focus on Hands-On Activities
 
@@ -36,3 +36,9 @@ This story illustrates the need for an adaptive set of activities for anyone who
 The [RGB Box](./activities/rgb-box.md) is somewhat of a special case.  It fits magically into the need for a simple, colorful hands-on activity for our youngest audience.  It is a favorite of our staff. Knowing how to create these devices and when to use them will be part of our lessons.
 
 The underlying goal is to be as flexible as possible and not force activities that are not age-appropriate for your audience.  Having a rich set of dialogs ready for each age group used to be challenging.  With tools like ChatGPT, lesson plans for all ages can be generated and taped to the back of the presentation boards.
+
+## Creative Commons License
+
+All content is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0 DEED)
+
+Please read our [Creative Commons License Agreement](./license.md) for details.

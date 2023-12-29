@@ -21,10 +21,17 @@ nav:
     - Sensors: activities/sensors.md
     - Time of Flight: activities/time-of-flight.md
     - Displays: activities/displays.md
+    - Microcontrollers: activities/microcontrollers.md
     - Code: activities/code.md
     - Computer Vision: activities/computer-vision.md
     - Donkey Car: activities/donkey-car.md
+  - Discussions and Lesson Plans:
+    - Batteries:
+      - 5th Grade Discussion: lessons/batteries-5th-grade.md
+      - 9th Grade Lesson Plan: lessons/batteries-9th-grade.md
+      - 11th Grade Discussion: lessons/batteries-11th-grade.md
   - Glossary of Terms: glossary.md
+  - License: license.md
   - Contact: contact.md
  
 # CoderDojo Microsite Standards from here down
