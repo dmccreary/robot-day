@@ -69,7 +69,11 @@ Can I see your slip?
 
 Wow!  I see you completed all the tasks!  Congratulations!!
 
-Here is a collection of badges.  You can pick any color you like.
+Here is a collection of badges.  
+
+![](./img/badge-box.jpg)
+
+You can pick any color you like.
 
 TODO: Add pick as a color.
 
