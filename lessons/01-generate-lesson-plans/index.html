@@ -12,7 +12,7 @@
         <meta name="author" content="Dan McCreary">
       
       
-        <link rel="canonical" href="https://dmccreary.github.io/GITHUB_REPO_NAME/lesson-plans/batteries-9th-grade/">
+        <link rel="canonical" href="https://dmccreary.github.io/GITHUB_REPO_NAME/lessons/01-generate-lesson-plans/">
       
       
       
@@ -22,7 +22,7 @@
     
     
       
-        <title>9th Grade Robotics Class Lesson Plan - Robot Day</title>
+        <title>Generating Lesson Plans with Python - Robot Day</title>
       
     
     
@@ -83,7 +83,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#9th-grade-robotics-class-lesson-plan" class="md-skip">
+        <a href="#generating-lesson-plans-with-python" class="md-skip">
           Skip to content
         </a>
       
@@ -118,7 +118,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              9th Grade Robotics Class Lesson Plan
+              Generating Lesson Plans with Python
             
           </span>
         </div>
@@ -399,6 +399,10 @@
     
       
         
+          
+        
+      
+        
       
     
     
@@ -410,10 +414,7 @@
         
   
   
-    
-  
-  
-    <a href="../../lessons/batteries-5th-grade.md" class="md-nav__link">
+    <a href="../" class="md-nav__link">
       
   
   <span class="md-ellipsis">
@@ -425,8 +426,6 @@
         <span class="md-nav__icon md-icon"></span>
       
     </a>
-  
-
   
 
       
@@ -444,7 +443,7 @@
         
   
   <span class="md-ellipsis">
-    Kits
+    Parts and Kits
   </span>
   
 
@@ -530,6 +529,21 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#seed-prompt" class="md-nav__link">
+    Seed Prompt
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -546,54 +560,80 @@
   
 
 
-<h1 id="9th-grade-robotics-class-lesson-plan">9th Grade Robotics Class Lesson Plan</h1>
-<p><img alt="Batteries Board" src="../../img/batteries.jpg" /></p>
-<p><strong>Lesson Plan Title: Exploring Battery Science in Robotics</strong></p>
-<p><strong>Grade Level: 9th Grade Robotics Class</strong></p>
-<p><strong>Duration: 1 Hour</strong></p>
-<p><strong>Objective:</strong>
-Students will understand the different types of batteries, their voltage, capacity, rechargeability, and application in robotics. They will learn to measure and calculate the power and energy provided by different batteries and gain hands-on experience by powering a motor with each type.</p>
-<p><strong>Materials:</strong>
-- Coin Cell Battery (CR2052)
-- LiPo Battery
-- AAA Batteries
-- AA Batteries
-- 9-volt Battery
-- 18650 Battery
-- Wires
-- Small Motors
-- Battery Meters
-- Volt-Ohm Meters
-- Robotics Class Battery Chart (from the image provided)
-- Handouts with battery specifications</p>
-<p><strong>Lesson Plan:</strong></p>
-<p><strong>Introduction (10 minutes):</strong>
-- Begin with a discussion on the importance of batteries in robotics.
-- Introduce the five types of batteries: Coin Cell, LiPo, AAA, AA, 9-volt, and 18650.
-- Briefly discuss voltage, capacity, and rechargeability.</p>
-<p><strong>Direct Instruction (15 minutes):</strong>
-- Present the Robotics Class Battery Chart. Discuss each battery type, its voltage, and capacity.
-- Explain the concepts of voltage, current, resistance, and power.
-- Demonstrate how to use a volt-ohm meter to measure battery voltage.</p>
-<p><strong>Guided Practice (15 minutes):</strong>
-- Divide students into small groups. Provide each group with a set of batteries, wires, motors, battery meters, and volt-ohm meters.
-- Have students measure the voltage of each battery type using the volt-ohm meters.
-- Guide students through calculating the power (P=VI) each battery can deliver.
-- Students will then connect each battery to a small motor and observe the operation.</p>
-<p><strong>Independent Practice (15 minutes):</strong>
-- Students will use their measurements and calculations to determine which battery is best suited for various robotic applications.
-- They will complete a worksheet where they match battery types to specific robotic components based on power requirements.</p>
-<p><strong>Conclusion (5 minutes):</strong>
-- Have a group discussion on the findings. Ask students which battery they would choose for different robotics scenarios and why.
-- Emphasize the importance of proper battery usage and disposal.</p>
-<p><strong>Assessment:</strong>
-- Participation in group activities.
-- Completion of the worksheet.
-- Short reflections on what they learned about the different batteries and their applications in robotics.</p>
-<p><strong>Homework:</strong>
-- Students will write a one-page essay on the environmental impact of batteries in technology and propose sustainable practices for battery usage and disposal in the field of robotics.</p>
-<p><strong>[End of Lesson Plan]</strong></p>
-<hr />
+<h1 id="generating-lesson-plans-with-python">Generating Lesson Plans with Python</h1>
+<p>We used Python to create a set of prompts and we created a function
+that iterates through the grade levels.</p>
+<h2 id="seed-prompt">Seed Prompt</h2>
+<p>Our "Seed Prompt" is a prompt that generates Python code that iterates through the prompts for each activity.</p>
+<div class="highlight"><pre><span></span><code>Create a Python function called generate_discussion that will call the OpenAI API using the GPT-4 model.
+Iterate through three grade levels (5th, 9th and 11th grades) for two topic prompts
+(&quot;Batteries&quot; and &quot;Motors&quot;).
+
+topics = [&quot;Batteries&quot;, &quot;Motors&quot;, &quot;Sensors&quot;]
+grade_levels = [5, 7, 9]
+
+for topic in topics:
+    for grade_level in grade_levels:
+       generate_discussion(topic, grade_level)
+
+The entire prompt should look like this:
+
+&quot;Generate a single paragraph description of a discussion between a teacher and a students about robotics.  The topic is {$topic} and the grade level is {$grade_level}.  
+
+The generate_discussion function can assume that the OPENAI_API_KEY
+is in an global variable called OPENAI_API_KEY.
+</code></pre></div>
+<p><a href="https://chat.openai.com/share/b9c90cce-8a3e-4568-9ffd-662be2420499">ChatGPT Seed Generator</a></p>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"> 1</span>
+<span class="normal"> 2</span>
+<span class="normal"> 3</span>
+<span class="normal"> 4</span>
+<span class="normal"> 5</span>
+<span class="normal"> 6</span>
+<span class="normal"> 7</span>
+<span class="normal"> 8</span>
+<span class="normal"> 9</span>
+<span class="normal">10</span>
+<span class="normal">11</span>
+<span class="normal">12</span>
+<span class="normal">13</span>
+<span class="normal">14</span>
+<span class="normal">15</span>
+<span class="normal">16</span>
+<span class="normal">17</span>
+<span class="normal">18</span>
+<span class="normal">19</span>
+<span class="normal">20</span>
+<span class="normal">21</span>
+<span class="normal">22</span>
+<span class="normal">23</span>
+<span class="normal">24</span>
+<span class="normal">25</span></pre></div></td><td class="code"><div><pre><span></span><code><span class="kn">import</span> <span class="nn">openai</span>
+
+<span class="k">def</span> <span class="nf">generate_discussion</span><span class="p">(</span><span class="n">topic</span><span class="p">,</span> <span class="n">grade_level</span><span class="p">):</span>
+    <span class="n">prompt</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;Generate a single paragraph description of a discussion between a teacher and students about robotics. The topic is </span><span class="si">{</span><span class="n">topic</span><span class="si">}</span><span class="s2"> and the grade level is </span><span class="si">{</span><span class="n">grade_level</span><span class="si">}</span><span class="s2">.&quot;</span>
+
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">response</span> <span class="o">=</span> <span class="n">openai</span><span class="o">.</span><span class="n">Completion</span><span class="o">.</span><span class="n">create</span><span class="p">(</span>
+            <span class="n">model</span><span class="o">=</span><span class="s2">&quot;gpt-4&quot;</span><span class="p">,</span>
+            <span class="n">prompt</span><span class="o">=</span><span class="n">prompt</span><span class="p">,</span>
+            <span class="n">max_tokens</span><span class="o">=</span><span class="mi">150</span><span class="p">,</span>
+            <span class="n">api_key</span><span class="o">=</span><span class="n">OPENAI_API_KEY</span>
+        <span class="p">)</span>
+        <span class="k">return</span> <span class="n">response</span><span class="o">.</span><span class="n">choices</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">text</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+    <span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+        <span class="k">return</span> <span class="sa">f</span><span class="s2">&quot;An error occurred: </span><span class="si">{</span><span class="n">e</span><span class="si">}</span><span class="s2">&quot;</span>
+
+<span class="c1"># Example usage</span>
+<span class="n">OPENAI_API_KEY</span> <span class="o">=</span> <span class="s2">&quot;your-api-key-here&quot;</span>
+
+<span class="n">topics</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;Batteries&quot;</span><span class="p">,</span> <span class="s2">&quot;Motors&quot;</span><span class="p">,</span> <span class="s2">&quot;Sensors&quot;</span><span class="p">]</span>
+<span class="n">grade_levels</span> <span class="o">=</span> <span class="p">[</span><span class="mi">5</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">9</span><span class="p">]</span>
+
+<span class="k">for</span> <span class="n">topic</span> <span class="ow">in</span> <span class="n">topics</span><span class="p">:</span>
+    <span class="k">for</span> <span class="n">grade_level</span> <span class="ow">in</span> <span class="n">grade_levels</span><span class="p">:</span>
+        <span class="nb">print</span><span class="p">(</span><span class="n">generate_discussion</span><span class="p">(</span><span class="n">topic</span><span class="p">,</span> <span class="n">grade_level</span><span class="p">))</span>
+</code></pre></div></td></tr></table></div>
 
 
   

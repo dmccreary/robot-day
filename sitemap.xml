@@ -116,6 +116,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/robot/</loc>
+         <lastmod>2023-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/sensors/</loc>
          <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
@@ -126,17 +131,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/lesson-plans/batteries-11th-grade/</loc>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/lessons/</loc>
          <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/lesson-plans/batteries-5th-grade/</loc>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/lessons/01-generate-lesson-plans/</loc>
          <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/lesson-plans/batteries-9th-grade/</loc>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/lessons/batteries-11th-grade/</loc>
+         <lastmod>2023-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/lessons/batteries-5th-grade/</loc>
+         <lastmod>2023-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/lessons/batteries-9th-grade/</loc>
          <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
