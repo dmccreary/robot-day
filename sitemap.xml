@@ -2,107 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/about/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/concepts/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/contact/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/glossary/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/license/</loc>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/process/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/scaling/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/tables/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/batteries/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/code/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/computer-vision/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/displays/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/donkey-car/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/h-bridge/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/microcontrollers/</loc>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/motors/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/pot-lab/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/pwm/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/rgb-box/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/sensors/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/activities/time-of-flight/</loc>
-         <lastmod>2023-12-28</lastmod>
+         <lastmod>2023-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/lesson-plans/batteries-11th-grade/</loc>
+         <lastmod>2023-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/lesson-plans/batteries-5th-grade/</loc>
+         <lastmod>2023-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/lesson-plans/batteries-9th-grade/</loc>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
