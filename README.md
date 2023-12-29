@@ -2,8 +2,8 @@
 
 Link to website:
 
-    [https://dmccreary.github.io/robot-day/](https://dmccreary.github.io/robot-day/)
+[https://dmccreary.github.io/robot-day/](https://dmccreary.github.io/robot-day/)
 
 ## Build Instructions
 
-This site uses the mkdocs material build system.
+This site uses the mkdocs build system with the material theme.

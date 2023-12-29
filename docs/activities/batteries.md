@@ -14,9 +14,9 @@ For older participants, you can go into more detailed concepts such as current, 
 
 We have sample discussions and lesson plans here:
 
-1. [5th Grade Discussion](../lesson-plans/batteries-5th-grade.md)
-2. [9th Grade Lesson Plan (1-hour)](../lesson-plans/batteries-9th-grade.md)
-2. [11th Grade Discussion](../lesson-plans/batteries-11th-grade.md)
+1. [5th Grade Discussion](../lessons/batteries-5th-grade.md)
+2. [9th Grade Lesson Plan (1-hour)](../lessons/batteries-9th-grade.md)
+2. [11th Grade Discussion](../lessons/batteries-11th-grade.md)
 
 ## Generating New Lesson Plans for Different Grade Levels
 
