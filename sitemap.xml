@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/kits/</loc>
+         <lastmod>2023-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dmccreary.github.io/GITHUB_REPO_NAME/license/</loc>
          <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
