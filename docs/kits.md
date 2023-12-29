@@ -40,16 +40,22 @@ and are not breadboard-friendly.  I would strongly suggest avoiding these kids.
 6. Wires
 7. Batteries
 
-## Wire, LEDs and Sensors
+## Breadboards, Wire, LEDs and Sensors
 
-You can also purchase bulk LEDs, wire, connectors and sensor packages for your robotics day events.  
+You can also purchase bulk breadboards, LEDs, wire, and sensor packages for your robotics day events.
+
+### Breadboards
+
+We like to use the 400-tie breadboards.  We use hot-glue to keep the pins from slipping out when kids are using them.  You can find them on [EBay for $1.50 each](https://www.ebay.com/itm/311737682581)
+
+![](./img/breadboards.png)
+
 
 ### Hookup Wire
 
 Multi colored solid-core [hookup wire](https://www.ebay.com/itm/122171182561):
 
-![](./img/hookup-wire.png
-)
+![](./img/hookup-wire.png)
 
 ### LEDs
 
