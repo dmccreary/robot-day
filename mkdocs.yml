@@ -28,6 +28,7 @@ nav:
     - Computer Vision: activities/computer-vision.md
     - Donkey Car: activities/donkey-car.md
   - Discussions and Lesson Plans:
+  - Introduction: lessons/index.md
     - Batteries:
       - 5th Grade Discussion: lessons/batteries-5th-grade.md
       - 9th Grade Lesson Plan: lessons/batteries-9th-grade.md
