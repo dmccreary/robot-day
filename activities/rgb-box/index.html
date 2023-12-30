@@ -1055,7 +1055,7 @@
 It has a power switch and three potentiometers (pots) hooked
 up to a Raspberry Pi Pico.  The pots control the brightness
 of the red, green and blue pixels on a low-cost LED strip
-of about 10 pixels.  The total part cost is around $11.</p>
+of about 10 pixels.  The total parts cost is around $11.</p>
 <h2 id="parts-list">Parts List</h2>
 <ol>
 <li>Raspberry Pi Pico - $4</li>
@@ -1065,6 +1065,15 @@ of about 10 pixels.  The total part cost is around $11.</p>
 <li>3 AA battery pack - $1</li>
 </ol>
 <h2 id="wiring-diagram">Wiring Diagram</h2>
+<p>Here is the wiring diagram for a single pot:</p>
+<p><img alt="Pot Circuit Diagram" src="../../img/pot-circuit-diagram.png" /></p>
+<p>The difference we have is that we have three pots, one for red, one for green and one for blue.  The center taps will go
+to the other analog input pins but the rails of the pots will
+go to the ADC_VREF and the AGND.  Make sure you ONLY use
+the AGND on pin 33 and not the other general GND pins.  The
+AGND and the ADC_VREF are surrounded by special circuits to
+dampen the noise so that the voltage readings don't fluctuate
+with the noise on the power lines.</p>
 <h2 id="sample-code">Sample Code</h2>
 <div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"> 1</span>
 <span class="normal"> 2</span>
@@ -1104,45 +1113,45 @@ of about 10 pixels.  The total part cost is around $11.</p>
 <span class="normal">36</span>
 <span class="normal">37</span>
 <span class="normal">38</span>
-<span class="normal">39</span></pre></div></td><td class="code"><div><pre><span></span><code># this kit assumes we have three POTs hooked to pins 26, 27 and 28 of the Pico
-from machine import ADC, Pin
-from utime import sleep
-from neopixel import NeoPixel
+<span class="normal">39</span></pre></div></td><td class="code"><div><pre><span></span><code><span class="c1"># This kit assumes we have three POTs hooked to pins 26, 27 and 28 of the Pico.</span>
+<span class="kn">from</span> <span class="nn">machine</span> <span class="kn">import</span> <span class="n">ADC</span><span class="p">,</span> <span class="n">Pin</span>
+<span class="kn">from</span> <span class="nn">utime</span> <span class="kn">import</span> <span class="n">sleep</span>
+<span class="kn">from</span> <span class="nn">neopixel</span> <span class="kn">import</span> <span class="n">NeoPixel</span>
 
-NEOPIXEL_PIN = 0
-NUMBER_PIXELS = 10
-strip = NeoPixel(Pin(NEOPIXEL_PIN), NUMBER_PIXELS)
+<span class="n">NEOPIXEL_PIN</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="n">NUMBER_PIXELS</span> <span class="o">=</span> <span class="mi">10</span>
+<span class="n">strip</span> <span class="o">=</span> <span class="n">NeoPixel</span><span class="p">(</span><span class="n">Pin</span><span class="p">(</span><span class="n">NEOPIXEL_PIN</span><span class="p">),</span> <span class="n">NUMBER_PIXELS</span><span class="p">)</span>
 
-# this is the built-in LED on the Pico which we toggle on and off to show sampling
-led = Pin(25, Pin.OUT)
+<span class="c1"># this is the built-in LED on the Pico which we toggle on and off to show sampling</span>
+<span class="n">led</span> <span class="o">=</span> <span class="n">Pin</span><span class="p">(</span><span class="mi">25</span><span class="p">,</span> <span class="n">Pin</span><span class="o">.</span><span class="n">OUT</span><span class="p">)</span>
 
-# ADC0 is GPIO 26.  Connect to row 10 the right side
-pot1 = ADC(28) # red
-pot2 = ADC(27) # green
-pot3 = ADC(26) # blue
+<span class="c1"># ADC0 is GPIO 26.  Connect to row 10 the right side</span>
+<span class="n">pot1</span> <span class="o">=</span> <span class="n">ADC</span><span class="p">(</span><span class="mi">28</span><span class="p">)</span> <span class="c1"># red</span>
+<span class="n">pot2</span> <span class="o">=</span> <span class="n">ADC</span><span class="p">(</span><span class="mi">27</span><span class="p">)</span> <span class="c1"># green</span>
+<span class="n">pot3</span> <span class="o">=</span> <span class="n">ADC</span><span class="p">(</span><span class="mi">26</span><span class="p">)</span> <span class="c1"># blue</span>
 
-MAX_DELAY = .5 # seconds
+<span class="n">MAX_DELAY</span> <span class="o">=</span> <span class="mf">.5</span> <span class="c1"># seconds</span>
 
-# global variables
-delay = .05
+<span class="c1"># global variables</span>
+<span class="n">delay</span> <span class="o">=</span> <span class="mf">.05</span>
 
-# repeat forever
-while True:
-    # if we have the POTs wired backwards we subtract to get the value
-    # read the value from the pot and shift 6 bits
-    # The brightness of each LED ranges from 0 to 255 - 8 bits
-    pot_value1 = pot1.read_u16() &gt;&gt; 8 
-    pot_value2 = pot2.read_u16() &gt;&gt; 8
-    pot_value3 = pot3.read_u16() &gt;&gt; 8
-    print(&quot;rgb&quot;, pot_value1, pot_value2, pot_value3)
+<span class="c1"># repeat forever</span>
+<span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
+    <span class="c1"># if we have the POTs wired backwards we subtract to get the value</span>
+    <span class="c1"># read the value from the pot and shift 6 bits</span>
+    <span class="c1"># The brightness of each LED ranges from 0 to 255 - 8 bits</span>
+    <span class="n">pot_value1</span> <span class="o">=</span> <span class="n">pot1</span><span class="o">.</span><span class="n">read_u16</span><span class="p">()</span> <span class="o">&gt;&gt;</span> <span class="mi">8</span> 
+    <span class="n">pot_value2</span> <span class="o">=</span> <span class="n">pot2</span><span class="o">.</span><span class="n">read_u16</span><span class="p">()</span> <span class="o">&gt;&gt;</span> <span class="mi">8</span>
+    <span class="n">pot_value3</span> <span class="o">=</span> <span class="n">pot3</span><span class="o">.</span><span class="n">read_u16</span><span class="p">()</span> <span class="o">&gt;&gt;</span> <span class="mi">8</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;rgb&quot;</span><span class="p">,</span> <span class="n">pot_value1</span><span class="p">,</span> <span class="n">pot_value2</span><span class="p">,</span> <span class="n">pot_value3</span><span class="p">)</span>
 
-    # update the strip with our new values
-    for i in range(NUMBER_PIXELS):
-        strip[i] = (pot_value3, pot_value2, pot_value1)
-    strip.write()
+    <span class="c1"># update the strip with our new values</span>
+    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">NUMBER_PIXELS</span><span class="p">):</span>
+        <span class="n">strip</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="n">pot_value3</span><span class="p">,</span> <span class="n">pot_value2</span><span class="p">,</span> <span class="n">pot_value1</span><span class="p">)</span>
+    <span class="n">strip</span><span class="o">.</span><span class="n">write</span><span class="p">()</span>
 
-    sleep(delay)
-    led.toggle()
+    <span class="n">sleep</span><span class="p">(</span><span class="n">delay</span><span class="p">)</span>
+    <span class="n">led</span><span class="o">.</span><span class="n">toggle</span><span class="p">()</span>
 </code></pre></div></td></tr></table></div>
 
 
