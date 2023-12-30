@@ -1,14 +1,16 @@
 # Robot Day Microcontroller Labs
 
-![](../img/microcontrollers.jpg)
+![Microcontrollers Board](../img/microcontrollers.jpg)
 
-In this lab we are going to compare the last generation of microcontrollers with the new generation.
+In this activity, we are going to compare the last generation of microcontrollers with the current generation.  We are going
+to find we can now build powerful robots that are inexpensive.
 
-The last generation was called the Arduino.  The new generation is called the Raspberry Pi Pico.  Lets compare the memory graphically:
+The last generation was called the [Arduino](https://store-usa.arduino.cc/collections/boards-modules/products/arduino-uno-rev3).  Its price was about $30.  The new generation is called the [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/).  It's price is only $4!.Let's compare the features of these two microcontrollers graphically.
 
 ## Memory Comparison
 
-Memory is really important in computers.  The more RAM memory you have, the better.  It means you can work on really fun problems without slowing down.
+Memory is really important in computers.  The name of the
+memory we use is called Random Access Memory or RAM. The more RAM you have, the better!  It means you can work on really fun problems without slowing down.
 
 ![](../img/memory-compare.png)
 
