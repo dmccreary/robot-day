@@ -12,7 +12,7 @@ We can load the images both into ChatGPT and then ask questions about them.
 
 Given these two images of analog and digital battery tests, design a five-minute discussion you might have with a 5th-grade student who is interested in robots.  The collision avoidance robots need the energy in the batteries to drive around.
 
-## ChatGPT
+## ChatGPT Response
 
 Below is a sample dialog we can use with a 5th-grade student. We
 reviewed the dialog and made a few minor changes.
