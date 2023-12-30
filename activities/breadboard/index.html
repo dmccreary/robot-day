@@ -12,13 +12,13 @@
         <meta name="author" content="Dan McCreary">
       
       
-        <link rel="canonical" href="https://dmccreary.github.io/robot-day/activities/code/">
+        <link rel="canonical" href="https://dmccreary.github.io/robot-day/activities/breadboard/">
       
       
-        <link rel="prev" href="../microcontrollers/">
+        <link rel="prev" href="../battery-test/">
       
       
-        <link rel="next" href="../computer-vision/">
+        <link rel="next" href="../motors/">
       
       
       <link rel="icon" href="../../img/favicon.ico">
@@ -26,7 +26,7 @@
     
     
       
-        <title>Code - Robot Day</title>
+        <title>Breadboard - Robot Day</title>
       
     
     
@@ -71,11 +71,11 @@
       
         <meta  property="og:type"  content="website" >
       
-        <meta  property="og:title"  content="Code - Robot Day" >
+        <meta  property="og:title"  content="Breadboard - Robot Day" >
       
         <meta  property="og:description"  content="Robot Day is content for hosting a robotics event at your organization. All content licensed Creative Commons ShareAlike Attribution Noncommercial" >
       
-        <meta  property="og:image"  content="https://dmccreary.github.io/robot-day/assets/images/social/activities/code.png" >
+        <meta  property="og:image"  content="https://dmccreary.github.io/robot-day/assets/images/social/activities/breadboard.png" >
       
         <meta  property="og:image:type"  content="image/png" >
       
@@ -83,15 +83,15 @@
       
         <meta  property="og:image:height"  content="630" >
       
-        <meta  property="og:url"  content="https://dmccreary.github.io/robot-day/activities/code/" >
+        <meta  property="og:url"  content="https://dmccreary.github.io/robot-day/activities/breadboard/" >
       
         <meta  name="twitter:card"  content="summary_large_image" >
       
-        <meta  name="twitter:title"  content="Code - Robot Day" >
+        <meta  name="twitter:title"  content="Breadboard - Robot Day" >
       
         <meta  name="twitter:description"  content="Robot Day is content for hosting a robotics event at your organization. All content licensed Creative Commons ShareAlike Attribution Noncommercial" >
       
-        <meta  name="twitter:image"  content="https://dmccreary.github.io/robot-day/assets/images/social/activities/code.png" >
+        <meta  name="twitter:image"  content="https://dmccreary.github.io/robot-day/assets/images/social/activities/breadboard.png" >
       
     
     
@@ -110,6 +110,11 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
+      
+        
+        <a href="#robot-day-breadboard-activity" class="md-skip">
+          Skip to content
+        </a>
       
     </div>
     <div data-md-component="announce">
@@ -142,7 +147,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Code
+              Breadboard
             
           </span>
         </div>
@@ -486,10 +491,30 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../breadboard/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Breadboard
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -498,6 +523,113 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#pico-on-breadboard" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pico On Breadboard
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#breadboard-display-cable" class="md-nav__link">
+    <span class="md-ellipsis">
+      Breadboard Display Cable
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#discussion-with-a-5th-grade-student" class="md-nav__link">
+    <span class="md-ellipsis">
+      Discussion with a 5th grade student
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Discussion with a 5th grade student">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#5th-grade-prompt" class="md-nav__link">
+    <span class="md-ellipsis">
+      5th Grade Prompt
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5th-grade-response" class="md-nav__link">
+    <span class="md-ellipsis">
+      5th Grade Response
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-is-a-solderless-breadboard" class="md-nav__link">
+    <span class="md-ellipsis">
+      What is a Solderless Breadboard?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#power-rails" class="md-nav__link">
+    <span class="md-ellipsis">
+      Power Rails
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#building-a-circuit" class="md-nav__link">
+    <span class="md-ellipsis">
+      Building a Circuit
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-use-a-breadboard" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why Use a Breadboard?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -717,17 +849,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../code/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -736,7 +861,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -977,6 +1101,103 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#pico-on-breadboard" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pico On Breadboard
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#breadboard-display-cable" class="md-nav__link">
+    <span class="md-ellipsis">
+      Breadboard Display Cable
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#discussion-with-a-5th-grade-student" class="md-nav__link">
+    <span class="md-ellipsis">
+      Discussion with a 5th grade student
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Discussion with a 5th grade student">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#5th-grade-prompt" class="md-nav__link">
+    <span class="md-ellipsis">
+      5th Grade Prompt
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5th-grade-response" class="md-nav__link">
+    <span class="md-ellipsis">
+      5th Grade Response
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-is-a-solderless-breadboard" class="md-nav__link">
+    <span class="md-ellipsis">
+      What is a Solderless Breadboard?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#power-rails" class="md-nav__link">
+    <span class="md-ellipsis">
+      Power Rails
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#building-a-circuit" class="md-nav__link">
+    <span class="md-ellipsis">
+      Building a Circuit
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-use-a-breadboard" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why Use a Breadboard?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -994,9 +1215,46 @@
   
 
 
-  <h1>Code</h1>
+<h1 id="robot-day-breadboard-activity">Robot Day Breadboard Activity</h1>
+<p>Solderless breadboards are a core tool we use in our Robot Day
+activities.  Although most students just see the boards being used
+we love to find students that are curious about how these
+boards work.</p>
+<p><img alt="Breadboards" src="../../img/breadboards.png" /></p>
+<h2 id="pico-on-breadboard">Pico On Breadboard</h2>
+<p><img alt="" src="../../img/color-coded-breadboard.jpg" /></p>
+<p>Note that each row that ends in "3" or "8" is marked with a
+black magic marker so the students can find the right pins.</p>
+<h2 id="breadboard-display-cable">Breadboard Display Cable</h2>
+<p>Note the color of the wires match the colors on the breadboard.</p>
+<p><img alt="" src="../../img/breadboard-display-cable.jpg" /></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Using breadboards requires some fine motor skills.  This activity might not be appropriate for students that are easily frustrated
+by small wires that bend easily.</p>
+</div>
+<h2 id="discussion-with-a-5th-grade-student">Discussion with a 5th grade student</h2>
+<h3 id="5th-grade-prompt">5th Grade Prompt</h3>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span>
+<span class="normal">3</span>
+<span class="normal">4</span></pre></div></td><td class="code"><div><pre><span></span><code>Consider the image attached.  Create a five minute description of the board on for a 5th grade student at a school&#39;s Robot Day event.  Talk about how solderless breadboards are
+used to build prototypes of robot projects.  Make sure to talk about power rails and other parts of the breadboard.
 
-
+Return the response in a single raw markdown file.
+</code></pre></div></td></tr></table></div>
+<h3 id="5th-grade-response">5th Grade Response</h3>
+<p>Hello, young inventors! Today, I'm going to show you a special tool that helps us build robots. It's called a <strong>solderless breadboard</strong>, and it's very important for making our robot ideas come to life without using any solder—that’s the metal glue that permanently sticks electronic parts together.</p>
+<p>Imagine you're creating a Lego castle, and you want to make sure everything fits perfectly before you glue it all together. A solderless breadboard is like the table you build your Lego castle on, but for electronics. You can put pieces on it, take them off, and move them around until everything works just right. That's what engineers do when they're testing their robot designs.</p>
+<h3 id="what-is-a-solderless-breadboard">What is a Solderless Breadboard?</h3>
+<p>A solderless breadboard is a rectangular board with lots of tiny holes in it. Each hole is connected to certain other holes in a special pattern. You can push electronic components like wires, resistors, and chips into these holes to connect them together and make an electrical circuit.</p>
+<h3 id="power-rails">Power Rails</h3>
+<p>On the sides of the breadboard, there are long rows of holes that are called <strong>power rails</strong>. These are like the main roads that deliver power to all the parts of your robot's circuit. One rail is for the positive power, and one is for the negative or ground connection. It's important to make sure you connect your battery or power supply to these rails correctly, or your circuit won't work!</p>
+<h3 id="building-a-circuit">Building a Circuit</h3>
+<p>When you're building a circuit on a breadboard, you follow a diagram that tells you where to put each part. It's a bit like following a treasure map to find the treasure. Instead of X marking the spot for treasure, the diagram shows you where to place each component to make your robot do amazing things.</p>
+<h3 id="why-use-a-breadboard">Why Use a Breadboard?</h3>
+<p>Using a breadboard is great for testing because you can easily change parts of your circuit. If something doesn’t work, you can just pull out the parts and try something else. This is perfect when you're just starting to learn how to make robots because it lets you experiment and learn without any mistakes being permanent.</p>
+<p>Now that you know about the breadboard, you're on your way to becoming a robot-building expert. Have fun creating your very own robot circuits and bringing your incredible ideas to life!</p>
 
 
 
@@ -1037,7 +1295,7 @@
       <nav class="md-footer__inner md-grid" aria-label="Footer" >
         
           
-          <a href="../microcontrollers/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Microcontrollers">
+          <a href="../battery-test/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Battery Testing">
             <div class="md-footer__button md-icon">
               
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
@@ -1047,20 +1305,20 @@
                 Previous
               </span>
               <div class="md-ellipsis">
-                Microcontrollers
+                Battery Testing
               </div>
             </div>
           </a>
         
         
           
-          <a href="../computer-vision/" class="md-footer__link md-footer__link--next" aria-label="Next: Computer Vision">
+          <a href="../motors/" class="md-footer__link md-footer__link--next" aria-label="Next: Motors">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                Computer Vision
+                Motors
               </div>
             </div>
             <div class="md-footer__button md-icon">
