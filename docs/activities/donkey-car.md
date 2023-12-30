@@ -1,5 +1,7 @@
 # Robot Day Donkey Car Activity
 
+![](../img/donkey-car.png)
+
 The [AI Racing League](https://www.coderdojotc.org/ai-racing-league/)
 is a project designed to introduce Python, AI and
 machine learning to high-school and college students.
