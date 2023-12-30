@@ -16,9 +16,13 @@ machines that move around.  Our goal is to **leverage this innate curiosity abou
 In the 19th century, German educator Friedrich Froebel pioneered many of
 the ideas we know today as "Kindergarten". Froebel also designed a set
 of play materials to provide an idealized learning environment for young children.  These [Froebel Gifts](https://en.wikipedia.org/wiki/Froebel_gifts) were designed as hands-on devices that help children learn
-about their world.  For the Robot Day project, we seek the "Froebel Gifts" for teaching STEM and robotics.  We know that these will be physical
+about their world.
+
+Each "gift" was a set of play materials ranging from simple geometric shapes to more complex building blocks and activity sets, intended to stimulate learning through play and exploration in a nurturing environment. These gifts were instrumental in the early development of educational theory and practice, influencing many educationalists and even artists and architects with their emphasis on learning through structured play and creativity.
+
+For the Robot Day project, we seek the "Froebel Gifts" for teaching STEM and robotics.  We know that these items will be physical
 devices that the kids will hold in their hands and will help
-them discover how the world around them works.  We think we have found a few of them already and we are refining others.
+them discover how the world around them works.  We think we have found a few of these gifts already and we are refining others.
 
 Some of our "activities" and "project boxes" are simple:
 
