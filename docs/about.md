@@ -11,6 +11,31 @@ fast searching and for everyone to share.
 If you ask almost any kid these days the question "Do you like robots?" you will invariably get the answer "Yes!".  Kids have a fundamental curiosity about
 machines that move around.  Our goal is to **leverage this innate curiosity about the world to teach STEM concepts** - and allow the kids to have a lot of fun while they are learning.  So our core value statement is "Help kids have fun while learning STEM!".
 
+## Finding The "Froebel Gifts" for Teaching STEM
+
+In the 19th century, German educator Friedrich Froebel pioneered many of
+the ideas we know today as "Kindergarten". Froebel also designed a set
+of play materials to provide an idealized learning environment for young children.  These [Froebel Gifts](https://en.wikipedia.org/wiki/Froebel_gifts) were designed as hands-on devices that help children learn
+about their world.  For the Robot Day project, we seek the "Froebel Gifts" for teaching STEM and robotics.  We know that these will be physical
+devices that the kids will hold in their hands and will help
+them discover how the world around them works.  We think we have found a few of them already and we are refining others.
+
+Some of our "activities" and "project boxes" are simple:
+
+1. A battery and an LED in a circuit with a switch.
+2. A battery and a motor that you can reverse directions.
+3. A [Box with knobs](./activities/rgb-box.md) that mix red, green and blue light.
+
+Other activities are more advanced inside to illustrate ideas:
+
+1. An H-Bridge box that shows current flowing to reverse a motor.
+2. A sensor with a display that changes.
+3. A collision avoidance robot.
+
+We know there are other clever devices out there we have not yet discovered.  But with your help, we hope we can work together to
+develop, refine and test these activities to build awesome learning
+experiences for our students.
+
 ## Focus on Diversity, Equity and Inclusion
 
 Although there are many wonderful robot kits you can assemble to bring to Robot Day, many of them are out of the price range of many schools, libraries and community centers.  This means that only wealthy schools can afford to
@@ -22,7 +47,11 @@ We hope this website inspires every school, library, community center, scout tro
 
 ## Focus on Hands-On Activities
 
-I once attended a robotics event that was sponsored by a local University.  They brought two large expensive robots.  But the robots were roped off from the participants. The kids we not allowed near the robots!  This is not our approach.  Our goal is to get kids to touch and feel every battery, every motor, every display, and every sensor.  We want the kids to climb into the robot corral and interact with robots close up and personal.  We believe that learning happens best when all the senses - including touch - are involved.
+I once attended a robotics event that was sponsored by a local University.  They brought two large expensive robots.  But the robots were roped off from the participants. The kids we not allowed near the robots!  **This is not our approach.**  Our goal is to get kids to touch and feel every battery, every motor, every wire, every sensor, every display,
+and every robot.  We want the kids to climb into the robot corral and interact with robots close up and personal.  And yes, at every event
+we seem to have a few kids (and mentors) step on a few robots. But that
+is OK.  We have low-cost interchangeable parts and a lot of hot glue!
+We believe that learning happens best when all the senses - including touch - are involved.
 
 ## Age Appropriate Activities
 

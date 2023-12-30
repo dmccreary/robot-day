@@ -32,28 +32,27 @@ and are not breadboard-friendly.  I would strongly suggest avoiding these kids.
 
 ## Suggested Parts
 
-1. Raspberry Pi Pico - Just $4 at MicroCenter
-2. Breadboard - 1/2 size is fine
-3. 2WD Smart Robot Car Chassis - includes motors and battery pack
-4. Motor Controller or Cytron Maker Pi RP2040
-5. Distance sensor (time of flight sensor preferred)
-6. Wires
-7. Batteries
+1. **Raspberry Pi Pico** - Just $4 at MicroCenter
+2. **Breadboard** - 1/2 size is fine
+3. **2WD Smart Robot Car Chassis** - includes motors and battery pack
+4. **Motor Controller** - or Cytron Maker Pi RP2040 - used to drive the motors
+5. **Distance sensor** - time of flight sensor preferred
+6. **Wires** - 20 gauge is the best hookup wire
+7. **Batteries** - Costco has great prices
 
 ## Breadboards, Wire, LEDs and Sensors
 
-You can also purchase bulk breadboards, LEDs, wire, and sensor packages for your robotics day events.
+You can also purchase bulk breadboards, LEDs, wire, and sensor packages for your Robot Day events.
 
 ### Breadboards
 
-We like to use the 400-tie breadboards.  We use hot-glue to keep the pins from slipping out when kids are using them.  You can find them on [EBay for $1.50 each](https://www.ebay.com/itm/311737682581)
+We like to use the 400-tie breadboards.  We use hot glue to keep the pins from slipping out when kids are using them.  You can find them on [eBay for $1.50 each](https://www.ebay.com/itm/311737682581).
 
 ![](./img/breadboards.png)
 
-
 ### Hookup Wire
 
-Multi colored solid-core [hookup wire](https://www.ebay.com/itm/122171182561):
+We love multi-colored solid-core [hookup wire](https://www.ebay.com/itm/122171182561):
 
 ![](./img/hookup-wire.png)
 
@@ -62,6 +61,8 @@ Multi colored solid-core [hookup wire](https://www.ebay.com/itm/122171182561):
 Here is an example of a kit of 200 LEDs for $6:
 
 ![](./img/led-kit.png)
+
+We use these with 330-ohm resistors for our 3.3V power from the Pico.
 
 ### Sensor Kit
 
