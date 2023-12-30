@@ -96,6 +96,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dmccreary.github.io/robot-day/activities/led-lab/</loc>
+         <lastmod>2023-12-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dmccreary.github.io/robot-day/activities/microcontrollers/</loc>
          <lastmod>2023-12-30</lastmod>
          <changefreq>daily</changefreq>
