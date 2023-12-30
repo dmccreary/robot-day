@@ -13,6 +13,8 @@ machines that move around.  Our goal is to **leverage this innate curiosity abou
 
 ## Finding The "Froebel Gifts" for Teaching STEM
 
+![Frobel Gift Box](./img/frobel-gift-box.jpg){ width="300" }
+
 In the 19th century, German educator Friedrich Froebel pioneered many of
 the ideas we know today as "Kindergarten". Froebel also designed a set
 of play materials to provide an idealized learning environment for young children.  These [Froebel Gifts](https://en.wikipedia.org/wiki/Froebel_gifts) were designed as hands-on devices that help children learn
