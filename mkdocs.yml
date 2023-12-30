@@ -26,18 +26,22 @@ nav:
     - Microcontrollers: activities/microcontrollers.md
     - Code: activities/code.md
     - Computer Vision: activities/computer-vision.md
+    - Robot: activities/robot.md
     - Donkey Car: activities/donkey-car.md
   - Discussions and Lesson Plans:
     - Introduction: lessons/index.md
+    - Generate Lessons: lessons/01-generate-lesson-plans.md
     - Batteries:
       - 5th Grade Discussion: lessons/batteries-5th-grade.md
       - 9th Grade Lesson Plan: lessons/batteries-9th-grade.md
       - 11th Grade Discussion: lessons/batteries-11th-grade.md
   - Parts and Kits: kits.md
+  - Scaling: scaling.md
   - Glossary of Terms: glossary.md
   - License: license.md
   - Contact: contact.md
- 
+
+
 # CoderDojo Microsite Standards from here down
 edit_uri: 'blob/master/docs'
 theme:
