@@ -14,6 +14,7 @@ nav:
   - Activities:
     - Introduction: activities/index.md
     - Batteries: activities/batteries.md
+    - Battery Testing: activities/battery-test.md
     - Motors: activities/motors.md
     - H-Bridge: activities/h-bridge.md
     - Pulse Width: activities/pwm.md
