@@ -26,11 +26,13 @@ for a breadboard on top like the standard Smart Car Chassis.
 
 ## Avoid Older Arduino Microcontrollers
 
-With the incredible growth of the new Raspberry Pi Pico and RP2040 parts, there is still a flood of older Arduino robot kits on the market.  These kits
-are severely limited but lack of RAM (2K comparted to the Pico's 264K)
-and are not breadboard-friendly.  I would strongly suggest avoiding these kids.
+With the incredible growth of the new Raspberry Pi Pico and RP2040 parts, there is still a flood of older Arduino robot kits on the market.  
+These kits are severely limited by a lack of RAM (2K compared to the Pico's 264K) and are not breadboard-friendly.  I would strongly suggest avoiding these kits.  To use OLED displays we need lots of RAM.
 
 ## Suggested Parts
+
+We are going to go into a sample Robot Day parts list in detail.  Here
+is a brief summary of some of the parts we suggest.
 
 1. **Raspberry Pi Pico** - Just $4 at MicroCenter
 2. **Breadboard** - 1/2 size is fine

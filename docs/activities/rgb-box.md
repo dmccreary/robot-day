@@ -6,7 +6,7 @@ This little box is one of the favorite kits of our staff.
 It has a power switch and three potentiometers (pots) hooked
 up to a Raspberry Pi Pico.  The pots control the brightness
 of the red, green and blue pixels on a low-cost LED strip
-of about 10 pixels.  The total part cost is around $11.
+of about 10 pixels.  The total parts cost is around $11.
 
 ## Parts List
 
@@ -18,11 +18,22 @@ of about 10 pixels.  The total part cost is around $11.
 
 ## Wiring Diagram
 
+Here is the wiring diagram for a single pot:
+
+![Pot Circuit Diagram](../img/pot-circuit-diagram.png)
+
+The difference we have is that we have three pots, one for red, one for green and one for blue.  The center taps will go
+to the other analog input pins but the rails of the pots will
+go to the ADC_VREF and the AGND.  Make sure you ONLY use
+the AGND on pin 33 and not the other general GND pins.  The
+AGND and the ADC_VREF are surrounded by special circuits to
+dampen the noise so that the voltage readings don't fluctuate
+with the noise on the power lines.
 
 ## Sample Code
 
-```pyton
-# this kit assumes we have three POTs hooked to pins 26, 27 and 28 of the Pico
+```python
+# This kit assumes we have three POTs hooked to pins 26, 27 and 28 of the Pico.
 from machine import ADC, Pin
 from utime import sleep
 from neopixel import NeoPixel
