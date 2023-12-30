@@ -2,6 +2,8 @@
 
 Goal: allows students to see how time-of-flight distance sensors work.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ga9S4zjp_Dk?si=9-6dYDREGcrQB_SC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e8WJgGWnEjI?si=LH0p6PbRLSh2wyUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Sample Project Kit
