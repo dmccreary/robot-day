@@ -66,6 +66,25 @@ Here is an example of a kit of 200 LEDs for $6:
 
 We use these with 330-ohm resistors for our 3.3V power from the Pico.
 
+### Push Buttons
+
+Many of our breadboard projects use these low-cost push buttons.
+You can find them on eBay for about 10 cents each.
+
+![](./img/push-buttons.png)
+
+You can use the following keywords to find them on eBay:
+
+B3F 12x12x7.3mm tactile switch key buttons QTY 10PCS
+
+You can also purchase the 6mm versions but they are a little
+harder for kids to press.  You can also purchase the buttons
+and caps separably.
+
+[10PCS New B3F Tactile Switch Key Button Switch 12x12x7.3mm Blue](https://www.ebay.com/itm/381924159238)
+
+![B3F Button Schematic](./img/button-schematic.png)
+
 ### Sensor Kit
 
 Rather than purchase individual sensors, you can get
