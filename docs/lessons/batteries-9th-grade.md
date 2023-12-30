@@ -58,7 +58,3 @@ Students will understand the different types of batteries, their voltage, capaci
 
 **Homework:**
 - Students will write a one-page essay on the environmental impact of batteries in technology and propose sustainable practices for battery usage and disposal in the field of robotics.
-
-**[End of Lesson Plan]**
-
----

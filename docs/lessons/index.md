@@ -13,3 +13,11 @@ photo of the board to generate lesson plans for different
 grade levels.  We are using Python and LangChain to
 generate a matrix of these lesson plans for all of the
 activities for grades 1 to 12.
+
+## Sample Code 
+
+Here is some sample code for generating gustom lesson plans for
+multiple grades and multiple topics.
+
+```py
+```

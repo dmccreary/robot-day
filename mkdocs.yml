@@ -1,9 +1,9 @@
 site_name: Robot Day
 site_description: 'Robot Day is content for hosting a robotics event at your organization. All content licensed Creative Commons ShareAlike Attribution Noncommercial'
 site_author: 'Dan McCreary'
-repo_name: 'GitHub Repo'
-site_url: 'https://dmccreary.github.io/GITHUB_REPO_NAME'
-repo_url: 'https://github.com/dmccreary/GITHUB_REPO_NAME'
+repo_name: 'robot-day'
+site_url: 'https://dmccreary.github.io/robot-day'
+repo_url: 'https://github.com/dmccreary/robot-day'
 
 nav:
   - Home: index.md
