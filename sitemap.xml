@@ -56,6 +56,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dmccreary.github.io/robot-day/activities/barrery-recharging/</loc>
+         <lastmod>2023-12-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dmccreary.github.io/robot-day/activities/batteries/</loc>
          <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
