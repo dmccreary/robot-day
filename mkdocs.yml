@@ -6,7 +6,7 @@ site_url: 'https://dmccreary.github.io/robot-day'
 repo_url: 'https://github.com/dmccreary/robot-day'
 
 nav:
-  - Home: index.md
+  - Robot Day: index.md
   - About: about.md
   - Process: process.md
   - Concepts: concepts.md
