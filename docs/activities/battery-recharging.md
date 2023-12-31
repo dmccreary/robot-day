@@ -16,6 +16,10 @@ Robot Day Events and still keep our kids safe.
     Never leave recharging batteries unattended.  Batteries
     in robots can become damaged if kids step on them.
     Poor battery management can start a fire.
+    Pay special attention to the polarity of any LiPo
+    batteries you purchase. The connector polarities are not standardized
+    and the batteries you purchase online might have
+    a reverse polarity of the boards we use.
 
 ## Hands-On Activity
 
@@ -84,16 +88,26 @@ turned on once the battery is fully charged.
 ## Integrating Recharging into Robot Days
 
 Although LiPo batteries can be hazardous, we think by proper management
-we can mitigate the risks.
+we can mitigate the risks.  Ask your community to volunteer for
+other projects such as families collecting old batteries and
+testing batteries.
 
-## Sample Prompt
+## Generating Custom Talking Points
+
+### Sample TP4056A Prompt
 
 ```
-Create a lesson plan for how to use the TP4056A LiPo battery 
-recharging board for a 9th grade robotics class.  Talk about
-when these boards are use, the pros and cons and any fire 
-danger that could result.
+Create a list of talking points for how to use the TP4056A LiPo battery 
+recharging board for a 9th-grade robotics class.
+Use the image above as a reference.
+Mention the USE input, the battery connections and the output terminals.
+Mention the red LED to show that the battery is being charged.
+Mention the other LED to show the battery is fully charged.
+Talk about when these boards are used, the pros and cons and any fire 
+danger that could result if the batteries are not handled correctly.
 ```
+
+### Sample Response
 
 #### Part 1: Components Identification
 - Introduce the TP4056A charging board with the uploaded image.
@@ -105,9 +119,7 @@ danger that could result.
 #### Part 2: Theory of Operation
 - Discuss how the charging board operates when a power source is connected to the USB connector.
 - Explain how the board regulates charging and prevents overcharging with its built-in circuitry.
-- Cover the function of each component in ensuring a safe charging cycle.
-
-### Day 2: Hands-On Activity and Safety Procedures
+- Cover the function of each component to ensure a safe charging cycle.
 
 #### Part 3: Safety First
 - Emphasize the importance of handling LiPo batteries with care.
