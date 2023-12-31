@@ -24,7 +24,7 @@ Robot Day Events and still keep our kids safe.
 ![](../img/usb-current-meter.png){ width=""500"}
 
 1. Several partially charged and fully charged 18360 batteries connected to recharging boards
-2. USB current and voltage monitors
+2. USB current and voltage monitors.  We can get these on eBay for a few dollars.
 
 ### Steps
 
@@ -34,6 +34,8 @@ Robot Day Events and still keep our kids safe.
 4. Show that a fully charged the battery will have a blue or green light to show it is fully charged
 5. Show that the voltage of a fully charged battery is about 3.9 volts
 
+!!! Note
+    Current and voltage are abstract topics and might be better for older students
 
 ## Advanced Recharging Topics for Project Builders
 
