@@ -2,177 +2,187 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://dmccreary.github.io/robot-day/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/about/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/concepts/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/contact/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/glossary/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/kits/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/license/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/process/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/scaling/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/tables/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/batteries/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/battery-recharging/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/battery-test/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/breadboard/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/code/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/computer-vision/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/displays/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/donkey-car/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/h-bridge/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dmccreary.github.io/robot-day/activities/led-lab/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <loc>https://dmccreary.github.io/robot-day/activities/led-rgb/</loc>
+         <lastmod>2024-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/robot-day/activities/led/</loc>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/microcontrollers/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/robot-day/activities/microswitch/</loc>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/motors/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/moving-rainbow/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/pot-lab/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/pwm/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/rgb-box/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/robot/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/sensors/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/activities/time-of-flight/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/lessons/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/lessons/01-generate-lesson-plans/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/lessons/batteries-11th-grade/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/lessons/batteries-5th-grade/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmccreary.github.io/robot-day/lessons/batteries-9th-grade/</loc>
-         <lastmod>2023-12-31</lastmod>
+         <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
