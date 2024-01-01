@@ -18,9 +18,16 @@ Make the following combinations
 
 ## Prompt
 
-```
-The image above is an RGB LED mounted on a breadboard with a battery connected.
-Create a five-minute discussion about this board between a volunteer in a Robot Day RGB LED challenge and a 5th-grade student.  Mention that by pressing individual buttons you can make red, green or blue.  By pressing multiple buttons other colors can be made.  Have the student try pressing some buttons.  What concept can we teach?
+```linenums="0"
+The image above is an RGB LED mounted on a breadboard with a battery
+connected.
+Create a five-minute discussion about this board between a volunteer
+in a Robot Day RGB LED challenge and a 5th-grade student.  
+Mention that by pressing individual buttons you can make red, green,
+or blue.
+By pressing multiple buttons other colors can be made.
+Have the student try pressing some buttons.
+What concepts can we teach?
 
 Return your response as a markdown download file.
 ```
