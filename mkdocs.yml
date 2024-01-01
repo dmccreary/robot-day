@@ -19,6 +19,7 @@ nav:
     - Breadboard: activities/breadboard.md
     - LEDs: activities/led.md
     - RGB LEDs: activities/led-rgb.md
+    - Microswitch: activities/microswitch.md
     - Motors: activities/motors.md
     - H-Bridge: activities/h-bridge.md
     - Pulse Width: activities/pwm.md
