@@ -1,6 +1,14 @@
 # Robot Day LED Breadboard Activity
 
-## Prompot
+LEDs are wonderful low-cost and safe ways for students to get
+familiar with concepts such as batteries, breadboards, circuits, 
+switches, polarity, current, and voltage.  Once you
+have the basic breadboard and components there are dozens
+of concepts we can teach.  The goal is to figure out
+what is appropriate for a Robot Day event where students might
+spend a few minutes at each activity station.
+
+## Prompt
 
 We have the following materials:
 
@@ -10,7 +18,7 @@ We have the following materials:
 4. 220-ohm resistors
 5. momentary switch buttons
 
-Design an activity for a 5th-grade student interested in robots.  The activity should last about 5-10 minutes.  The activity will be lead by an adult volunteer.  Provide a clear description of this activity including some hands-on things that the student will do to earn a checkbox towards a robot expert badge.
+Design an activity for a 5th-grade student interested in robots.  The activity should last about 5-10 minutes.  The activity will be led by an adult volunteer.  Provide a clear description of this activity including some hands-on things that the student will do to earn a checkbox towards a robot expert badge.
 
 Return the response as a single raw markdown file that is easy to download.
 
@@ -30,14 +38,15 @@ To introduce 5th-grade students to basic electronics and circuit design through 
 5-10 minutes
 
 ### Activity Description
+
 #### Step 1: Introduction (1 minute)
 - The adult volunteer explains the basic concept of a circuit and its relevance in robotics.
 - Briefly introduce the materials: breadboard, LEDs, resistors, battery pack, and switch buttons.
 
 #### Step 2: Building a Simple Circuit (3 minutes)
-- Guide the student to place a LED on the breadboard.
+- Guide the student to place an LED on the breadboard.
 - Show them how to connect the LED to the battery pack using wires.
-- Explain the importance of resistors and help them add a 220 ohm resistor to the circuit.
+- Explain the importance of resistors and help them add a 220-ohm resistor to the circuit.
 
 #### Step 3: Adding a Switch (2 minutes)
 - Introduce the momentary switch button.

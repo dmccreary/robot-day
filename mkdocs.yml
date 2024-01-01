@@ -17,6 +17,8 @@ nav:
     - Battery Testing: activities/battery-test.md
     - Battery Recharging: activities/battery-recharging.md
     - Breadboard: activities/breadboard.md
+    - LEDs: activities/led.md
+    - RGB LEDs: activities/led-rgb.md
     - Motors: activities/motors.md
     - H-Bridge: activities/h-bridge.md
     - Pulse Width: activities/pwm.md
