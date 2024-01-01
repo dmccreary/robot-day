@@ -4,7 +4,7 @@
 
 ![](../img/led-rgb-v2.jpg)
 
-![](../img/led-rgb-v2.jpg)
+![](../img/led-rgb-v3.jpg)
 
 Make the following combinations
 
