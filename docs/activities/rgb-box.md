@@ -16,6 +16,17 @@ of about 10 pixels.  The total parts cost is around $11.
 4. 3 potentiometers - 50 cents each
 5. 3 AA battery pack - $1
 
+## Video Demo with LCD Display
+
+This is a demo using an extra old LCD display that also
+shows the red, green and blue values from 0 to 255.
+Students can write down these three numbers and use
+them in their programs.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Pi7bfh5pbo?si=Zux6YfCs8E6icNnH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+One of the challenges we give our students is the "Orange Problem".  Many colors like red, green, blue, yellow, purple and cyan are easy to create.  The values of all potentiometers are set at a minimum or maximum.  But orange is a little more challenging since it requires fine-tuning of the values or the red and green potentiometers.
+
 ## Wiring Diagram
 
 Here is the wiring diagram for a single pot:
