@@ -10,8 +10,10 @@ It has a power switch and three potentiometers (pots) hooked up to a Raspberry P
 Do you like colors?  Can you turn the red knob?
 Wow!  You made it turn red?  How about the green
 knob? Wow! You made it turn green! How about
-the blue knob?  You are awesome!  I bet you might
-become a robot programmer someday!
+the blue knob?  You are awesome!  Do you know how
+to make the color purple?  Yes, you turn on both
+the red and blue but keep the green off.  Cool!
+I bet you might become a robot programmer someday!
 
 ## Parts List
 
