@@ -3,10 +3,15 @@
 ![RGB Box](../img/rgb-box.jpg)
 
 This little box is one of the favorite kits of our staff.
-It has a power switch and three potentiometers (pots) hooked
-up to a Raspberry Pi Pico.  The pots control the brightness
-of the red, green and blue pixels on a low-cost LED strip
-of about 10 pixels.  The total parts cost is around $11.
+It has a power switch and three potentiometers (pots) hooked up to a Raspberry Pi Pico.  The pots control the brightness of the red, green and blue pixels on a low-cost LED strip of about 10 pixels.  The total parts cost is around $11.  Kids as young a five years old love this project!
+
+## Sample Dialog for a Five-Year-Old
+
+Do you like colors?  Can you turn the red knob?
+Wow!  You made it turn red?  How about the green
+knob? Wow! You made it turn green! How about
+the blue knob?  You are awesome!  I bet you might
+become a robot programmer someday!
 
 ## Parts List
 
