@@ -2,10 +2,25 @@
 
 Solderless breadboards are a core tool we use in our Robot Day
 activities.  Although most students just see the boards being used
-we love to find students that are curious about how these
+we love to find students who are curious about how these
 boards work.
 
 ![Breadboards](../img/breadboards.png)
+
+## LEDs on Breadboard
+
+We will be using a combination of breadboards, batteries, LEDs, resistors and buttons to demonstrate circuits.
+
+Here is an example of three LEDs connected to buttons:
+
+![](../img/leds-on-breadboard.jpg)
+
+Students are each asked to press one of the buttons and
+observe the results.  Then they are asked to press multiple buttons together and observe the results.
+
+As a challenge, you can ask them if they could think of
+a project that would allow a single button to turn on two
+LEDs or an LED that would require two buttons to be pressed together to get an LED to to turn on.
 
 ## Pico On Breadboard
 
