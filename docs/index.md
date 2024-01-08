@@ -10,9 +10,11 @@ We have been testing these events for almost five years, and we think
 we have some thoughtfully designed and tested activities that are fun and cost-effective to promote inclusion by organizations with modest budgets of just a few hundred dollars.
 
 In 2023 we have also started integrating generative AI into our
-content.  We have provided tools to help you quickle customize our
+content.  We have provided tools to help you quickly customize our
 content and generate [MicroSims](./glossary.md#microsim) that
 mirror our hands-on activities.
+
+Robot Day can start as a 1/2 day or full-day event.  However, we hope that they evolve into recurring coding clubs, STEM clubs and robotics clubs at your organization.
 
 Please let me know if you have any feedback!
 

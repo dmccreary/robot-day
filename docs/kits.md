@@ -1,12 +1,11 @@
 # Purchasing Parts and Kits for Robot Day
 
-Let's be honest here.  Finding low-cost robotics kits that focus
-on teaching computational thinking is hard.  Retailers focus
-on families with high disposable incomes that are not sensitive
-to price.  Retailers like Amazon frequently take 30% margins
-and robot parts suppliers are forced to pay their fees and
-use their warehouses.  Amazon uses every opportunity to use AI to keep its profit margins high.  That puts the burden on teachers and 
-event organizers to be clever and find the best value for your organization.
+Let's be honest here.  Finding low-cost electronic parts and robotics kits that focus
+on teaching computational thinking is hard.
+Many online retailers focus
+on customers with high disposable incomes who are not price-sensitive.  Retailers like Amazon frequently take 30% margins and robot parts suppliers are forced to pay Amazon's reseller fees and use Amazon's warehouses.  Amazon uses every opportunity to use AI to keep its profit margins high.  That puts the burden on teachers and 
+event organizers to be clever and find the best value for your organization.  We hope these suggestions help you
+find value for your Robot Day funding.
 
 As one example, let's take the "2WD Smart Robot Car Chassis" problem.
 
@@ -21,7 +20,7 @@ The first item is probably priced by an AI agent that is a little out of touch w
 [BOTs and four DOTs](https://www.amazon.com/2WD-Smart-Robot-Car-Chassis/dp/B0C4TPVH8H/ref=sr_1_6) is a lot more reasonable. But the [Cytron](https://www.cytron.io/p-2wd-smart-robot-car-chassis) listing clearly not only
 has a lower price, but the price goes down if you order multiple items.
 
-If you don't have worries about budgets, the vendor [SparkFun](http://sparkfun.com) sells high-quality parts and you can filter by which robots support MicroPython like [Kitronik Autonomous Robotics Platform for Pico](https://www.sparkfun.com/products/19520).  This kit is nice, but does not support room
+If you don't have worries about budgets, the vendor [SparkFun](http://sparkfun.com) sells high-quality parts and you can filter by which robots support MicroPython like [Kitronik Autonomous Robotics Platform for Pico](https://www.sparkfun.com/products/19520).  This kit is nice but does not support room
 for a breadboard on top like the standard Smart Car Chassis.
 
 ## Avoid Older Arduino Microcontrollers
@@ -29,13 +28,20 @@ for a breadboard on top like the standard Smart Car Chassis.
 With the incredible growth of the new Raspberry Pi Pico and RP2040 parts, there is still a flood of older Arduino robot kits on the market.  
 These kits are severely limited by a lack of RAM (2K compared to the Pico's 264K) and are not breadboard-friendly.  I would strongly suggest avoiding these kits.  To use OLED displays we need lots of RAM.
 
+Arduino software also requires our users to compile their
+code and re-download the binaries each time the program code is changed.  This works well for small projects but
+starts to get slower as our programs get more complex.
+
+MicroPython is interpreted so that after any small change
+the program runs immediately.  Our coding labs depend on fast feedback, so MicroPython is a great fit.
+
 ## Suggested Parts
 
 We are going to go into a sample Robot Day parts list in detail.  Here
-is a brief summary of some of the parts we suggest.
+is a summary of some of the parts we suggest.
 
 1. **Raspberry Pi Pico** - Just $4 at MicroCenter
-2. **Breadboard** - 1/2 size is fine
+2. **Breadboard** - the "400-tie" 1/2 size versions are fine for our projects
 3. **2WD Smart Robot Car Chassis** - includes motors and battery pack
 4. **Motor Controller** - or Cytron Maker Pi RP2040 - used to drive the motors
 5. **Distance sensor** - time of flight sensor preferred

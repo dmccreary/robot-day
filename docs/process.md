@@ -75,19 +75,26 @@ Here is a collection of badges.
 
 You can pick any color you like.
 
-TODO: Add pick as a color.
+TODO: Add pink as a color.
 
 ## Assessment
 
-We just ask a few questions
+As people are leaving we just ask a few questions.
 
-Kids:
+**Kids:**
 
-1. Did you have a good time?
-2. What was your favorite part?
+Did you have a good time?
 
-Parents:
+What was your favorite part?
 
-1. Do you have any questions on how kids can learn more about robots
-and STEM?
+**Parents:**
+
+Do you have any questions on how kids can learn more about robots and STEM?
+
+If parents are interested in learning more we provide
+them with a QR code for Code Savvy:
+
+http://codesavvy.org
+
+
 
