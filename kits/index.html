@@ -903,13 +903,12 @@
 
 
 <h1 id="purchasing-parts-and-kits-for-robot-day">Purchasing Parts and Kits for Robot Day</h1>
-<p>Let's be honest here.  Finding low-cost robotics kits that focus
-on teaching computational thinking is hard.  Retailers focus
-on families with high disposable incomes that are not sensitive
-to price.  Retailers like Amazon frequently take 30% margins
-and robot parts suppliers are forced to pay their fees and
-use their warehouses.  Amazon uses every opportunity to use AI to keep its profit margins high.  That puts the burden on teachers and 
-event organizers to be clever and find the best value for your organization.</p>
+<p>Let's be honest here.  Finding low-cost electronic parts and robotics kits that focus
+on teaching computational thinking is hard.
+Many online retailers focus
+on customers with high disposable incomes who are not price-sensitive.  Retailers like Amazon frequently take 30% margins and robot parts suppliers are forced to pay Amazon's reseller fees and use Amazon's warehouses.  Amazon uses every opportunity to use AI to keep its profit margins high.  That puts the burden on teachers and 
+event organizers to be clever and find the best value for your organization.  We hope these suggestions help you
+find value for your Robot Day funding.</p>
 <p>As one example, let's take the "2WD Smart Robot Car Chassis" problem.</p>
 <p>Here are some identical items:</p>
 <p><img alt="2WD Smart Car Chassis" src="../img/smart-car-chassis-options.png" /></p>
@@ -918,17 +917,22 @@ similar items by searching for "2WD Smart Robot Car Chassis".</p>
 <p>The first item is probably priced by an AI agent that is a little out of touch with reality.  The second from the retailer 
 <a href="https://www.amazon.com/2WD-Smart-Robot-Car-Chassis/dp/B0C4TPVH8H/ref=sr_1_6">BOTs and four DOTs</a> is a lot more reasonable. But the <a href="https://www.cytron.io/p-2wd-smart-robot-car-chassis">Cytron</a> listing clearly not only
 has a lower price, but the price goes down if you order multiple items.</p>
-<p>If you don't have worries about budgets, the vendor <a href="http://sparkfun.com">SparkFun</a> sells high-quality parts and you can filter by which robots support MicroPython like <a href="https://www.sparkfun.com/products/19520">Kitronik Autonomous Robotics Platform for Pico</a>.  This kit is nice, but does not support room
+<p>If you don't have worries about budgets, the vendor <a href="http://sparkfun.com">SparkFun</a> sells high-quality parts and you can filter by which robots support MicroPython like <a href="https://www.sparkfun.com/products/19520">Kitronik Autonomous Robotics Platform for Pico</a>.  This kit is nice but does not support room
 for a breadboard on top like the standard Smart Car Chassis.</p>
 <h2 id="avoid-older-arduino-microcontrollers">Avoid Older Arduino Microcontrollers</h2>
 <p>With the incredible growth of the new Raspberry Pi Pico and RP2040 parts, there is still a flood of older Arduino robot kits on the market.<br />
 These kits are severely limited by a lack of RAM (2K compared to the Pico's 264K) and are not breadboard-friendly.  I would strongly suggest avoiding these kits.  To use OLED displays we need lots of RAM.</p>
+<p>Arduino software also requires our users to compile their
+code and re-download the binaries each time the program code is changed.  This works well for small projects but
+starts to get slower as our programs get more complex.</p>
+<p>MicroPython is interpreted so that after any small change
+the program runs immediately.  Our coding labs depend on fast feedback, so MicroPython is a great fit.</p>
 <h2 id="suggested-parts">Suggested Parts</h2>
 <p>We are going to go into a sample Robot Day parts list in detail.  Here
-is a brief summary of some of the parts we suggest.</p>
+is a summary of some of the parts we suggest.</p>
 <ol>
 <li><strong>Raspberry Pi Pico</strong> - Just $4 at MicroCenter</li>
-<li><strong>Breadboard</strong> - 1/2 size is fine</li>
+<li><strong>Breadboard</strong> - the "400-tie" 1/2 size versions are fine for our projects</li>
 <li><strong>2WD Smart Robot Car Chassis</strong> - includes motors and battery pack</li>
 <li><strong>Motor Controller</strong> - or Cytron Maker Pi RP2040 - used to drive the motors</li>
 <li><strong>Distance sensor</strong> - time of flight sensor preferred</li>
