@@ -20,6 +20,7 @@ nav:
     - LEDs: activities/led.md
     - RGB LEDs: activities/led-rgb.md
     - Microswitch: activities/microswitch.md
+    - Electronics Starter Kit: activities/electronics-starter-kit.md
     - Motors: activities/motors.md
     - H-Bridge: activities/h-bridge.md
     - Pulse Width: activities/pwm.md
@@ -41,6 +42,8 @@ nav:
       - 5th Grade Discussion: lessons/batteries-5th-grade.md
       - 9th Grade Lesson Plan: lessons/batteries-9th-grade.md
       - 11th Grade Discussion: lessons/batteries-11th-grade.md
+    - Displays:
+      - NeoPixels: lessons/neopixel.md
   - Parts and Kits: kits.md
   - Scaling: scaling.md
   - Glossary of Terms: glossary.md

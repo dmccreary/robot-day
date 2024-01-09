@@ -65,17 +65,24 @@ the robot's ability to sense its direction?
 30. **Using Buttons:**  The Cytron board includes two user-programmable momentary push buttons.  Add code to read the buttons and change
 the speed of the robot.
 31. **Playing Sound Files:** Play prerecorded sound files using the speaker.
-31. **Robot Debugging:** Troubleshooting and fixing issues in the collision avoidance robot.
+32. **Robot Debugging:** Troubleshooting and fixing issues in the collision avoidance robot.
+
+## Adding an LED Stick
+
+One cost-effective way to allow students to see the state of the robot is to add a low-cost 8-pixel LED stick.  Although this part does require some soldering, it is a great way to get students interested in creating patterns on colorful bright displays.
 
 ## Display Robot
 
 These activities assume that the base robot kit has a 128x64 OLED display
-added to it.
+added to it.  The display has a 7-wire ribbon cable that uses one grove port
+and has three connections to the servo pins.
 
 1. **Adding a Display:** Adding an OLED display to the robot.  Understand
 the way that power, ground and the five data signals are used.
+2. **Creating a Display Cable** Using a 7-wire Dupont cable to create a display connector to the Cytron board using 
 2. **Displaying the Robot State:** Display the basic state of the
-robot on the screen including distance senor data and power.
+robot on the screen including distance sensor data and power.
 22. **Building a User Interface:** Creating a basic UI for robot control.
 
+## Adding Additional
 

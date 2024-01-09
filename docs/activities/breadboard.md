@@ -1,11 +1,32 @@
 # Robot Day Breadboard Activity
 
-Solderless breadboards are a core tool we use in our Robot Day
-activities.  Although most students just see the boards being used
-we love to find students who are curious about how these
-boards work.
-
 ![Breadboards](../img/breadboards.png)
+
+Solderless breadboards are a core tool we use in our Robot Day
+activities.  In many Robot Day events, most students just see the boards being used in projects.  They often don't get a chance to use them due to time
+limitations.  However, if students have enough time we can
+get them to use them and try different components.
+
+## Getting around the Small Wires Problem
+
+One of our biggest challenges with using individual components like LEDs and resistors is that the wires can be very small and thin.  They bend easily making it difficult for students to push them into the connection points.
+
+One solution is to purchase an [ECell: Breadboard-Plugin Components Pack](https://www.dfrobot.com/product-1386.html) for about $20.  Although the parts
+will cost much more, they can be a good way to demonstrate how breadboards work.
+
+## Purchasing an Electronics Starter Kit
+
+![](../img/electronics-starter-kit.png)
+
+For under $15, you can purchase an [Electronic Component Starter Kit](https://www.ebay.com/itm/314928530461).  These kits include many standard
+items that we can use to learn about electronics.  For a typical
+Robot Day activity we can just focus on learning how to use
+a breadboard to light up LEDs using buttons.
+
+You can get more ideas by visiting our [Electronics Starter Kit](./electronics-starter-kit.md) page.  These pages also have tips
+on using AI to generate lesson plans.
+
+## Breadboard Connection Poster
 
 ## LEDs on Breadboard
 
