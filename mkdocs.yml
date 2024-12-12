@@ -45,6 +45,9 @@ nav:
       - 11th Grade Discussion: lessons/batteries-11th-grade.md
     - Displays:
       - NeoPixels: lessons/neopixel.md
+  - Promoting Robot Day:
+      - Introduction: promoting/index.md
+      - Topic Lists: promoting/topic-list.md
   - Parts and Kits: kits.md
   - Scaling: scaling.md
   - Glossary of Terms: glossary.md
