@@ -6,16 +6,16 @@ The Robot Day website is designed to support different roles within any learning
 
 ```linenums="0"
 I am creating an intelligent book and website called "Robot Day"
-which supports a single-day at an educational organization that
+which supports a single-day event at an educational organization that
 promotes fun STEM and AI activities and promotes a modern
 curriculum of hands-on project-based learning activities.
 
 First define the term "personas" for different stakeholders
-that might use this book and website.  Then give examples
+that might use this intelligent book and website.  Then give examples
 of six personas like teacher, student, school administrator,
 parent etc.
 
-For each persona, give an example of how hyper personalization
+For each persona, give an example of how hyper-personalization
 technologies could be used to change the content for this
 intelligent online website using generative AI.
 
@@ -31,6 +31,11 @@ Personas are semi-fictional representations of the different categories of peopl
 
 
 ## Six Example Personas and How Hyper-Personalization Could Be Applied
+
+!!! note
+    These personas have been lightly edited and reformatted to be more appropriate
+    for the context of Robot Day events.  You can see the original
+    ChatGPT session [here](https://chatgpt.com/share/675ad618-19ec-8001-b3f0-5c32245436c9).
 
 ### Persona 1: The Elementary School Teacher
 
