@@ -47,7 +47,7 @@ nav:
       - NeoPixels: lessons/neopixel.md
   - Promoting Robot Day:
       - Introduction: promoting/index.md
-      - Topic Lists: promoting/topic-list.md
+  - Topic Lists: topic-list.md
   - Parts and Kits: kits.md
   - Scaling: scaling.md
   - Glossary of Terms: glossary.md
