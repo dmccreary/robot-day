@@ -45,6 +45,16 @@ nav:
       - 11th Grade Discussion: lessons/batteries-11th-grade.md
     - Displays:
       - NeoPixels: lessons/neopixel.md
+  - Prompts:
+    - prompts/index.md
+    - prompts/batteries.md
+    - prompts/h-bridge.md
+    - prompts/microcontrollers.md
+    - prompts/motors.md
+    - prompts/pwm-lab.md
+  - Sims:
+    - sims/index.md
+    - sims/pwm/index.md
   - Promoting Robot Day: promoting.md
   - Topic Lists: topic-list.md
   - Parts and Kits: kits.md

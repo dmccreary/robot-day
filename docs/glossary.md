@@ -6,7 +6,8 @@
 
 A checklist of items that students need to complete to earn their robot expert badge.
 
-#### MicroSims
+#### MicroSim
+
 Online simulations of the physical world are created with generative AI tools such as ChatGPT.
 
 Most MicroSims are created using OpenAI's ChatGPT generating p5.js simulations.
