@@ -48,10 +48,12 @@ nav:
   - Prompts:
     - prompts/index.md
     - prompts/batteries.md
-    - prompts/h-bridge.md
-    - prompts/microcontrollers.md
     - prompts/motors.md
+    - prompts/h-bridge.md
     - prompts/pwm-lab.md
+    - prompts/sensors.md
+    - prompts/displays.md
+    - prompts/microcontrollers.md
   - Sims:
     - sims/index.md
     - sims/pwm/index.md
@@ -68,8 +70,6 @@ nav:
 edit_uri: 'blob/master/docs'
 theme:
   name: material
-  extra_css:
-    - styles/custom.css
   logo: img/logo.png
   favicon: img/favicon.ico
   palette:
@@ -96,6 +96,15 @@ markdown_extensions:
   - attr_list
   - pymdownx.highlight:
       linenums: true
+
+extra_css:
+  - css/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+
+
+extra_javascript:
+  - js/copy-text.js
+
 extra:
   analytics:
     provider: google

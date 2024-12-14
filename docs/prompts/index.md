@@ -8,4 +8,6 @@
 
 [PWM Lab](pwm-lab.md)
 
+[Displays](./displays.md)
+
 [Microcontroller Table](./microcontrollers.md)

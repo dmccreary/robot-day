@@ -1,15 +1,22 @@
 # H-Bridge
 
-![](./h-bridge.md)
+![](../img/h-bridge.png)
 
 ## Prompt
 
-```linenums="0"
-The image above describes an H-Bridge circuit for changing the direction of a motor.  We have an animated H-Bridge board that allows students to change the setting of four switches to make an pattern of LED lights simulate current flowing through a motor.
+!!! prompt "Prompt Text"
+    The image above describes an H-Bridge circuit for changing the
+    direction of a motor.  We have an animated H-Bridge board that
+    allows students to change the setting of four switches to make
+    an pattern of LED lights simulate current flowing through a motor.
 
-Please generate a sample five-minute dialog between a teacher-volunteer-mentor and a student.
-The dialog should walk through showing the switch positions for forward (green LED with the theater chase pattern), reverse (blue LEDs with the theater chase pattern) and short circuit (red LEDs).  Both the left and right can be short circuited.
-```
+    Please generate a sample five-minute dialog between a
+    teacher-volunteer-mentor and a student.
+    The dialog should walk through showing the switch positions
+    for forward (green LED with the theater chase pattern),
+    reverse (blue LEDs with the theater chase pattern) and
+    short circuit (red LEDs).  
+    Both the left and right can be short circuited.
 
 ## Sample Response Dialog
 

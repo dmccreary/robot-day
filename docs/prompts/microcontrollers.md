@@ -2,11 +2,19 @@
 
 ![](../img/microcontrollers.jpg)
 
-```linenums="0"
-The image above is a board we are using in our "Robot Day" to explain microcontrollers.  The centerpiece of robot day is a large robot corral full of about a dozen $19 collision avoidance robots built around the RP2040 microcontroller from the Raspberry Pi Foundation.  We want to get across the point the the new $4 Raspberry Pi Pico is a LOT more powerful then the old expensive $30 Arduino microcontrollers.  They all run MicroPython in our school's coding classes.
+!!! prompt "Prompt Text"
+    The image above is a board we are using in our "Robot Day" 
+    to explain microcontrollers.  The centerpiece of robot day
+    is a large robot corral full of about a dozen $19 collision
+    avoidance robots built around the RP2040 microcontroller from
+    the Raspberry Pi Foundation.  We want to get across the point
+    the the new $4 Raspberry Pi Pico is a LOT more powerful then
+    the old expensive $30 Arduino microcontrollers.  They all run
+    MicroPython in our school's coding classes.
 
-Please generate a sample 5 minute dialog that a teacher/mentor/volunteer might have with an 8-year student that comes up to the table to talk about microcontrollers in our collision avoidance robots.
-```
+    Please generate a sample 5 minute dialog that a teacher/mentor/volunteer
+    might have with an 8-year student that comes up to the table to
+    talk about microcontrollers in our collision avoidance robots.
 
 ## Sample Dialog for 8-Year Old
 

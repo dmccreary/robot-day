@@ -1,6 +1,6 @@
 # Dialogs for the Batteries Table
 
-![](./batteries.md)
+![Poster Board of Battery Types](../img/batteries.jpg)
 
 ## Sample Prompt
 
