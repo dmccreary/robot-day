@@ -15,10 +15,10 @@
         <link rel="canonical" href="https://dmccreary.github.io/robot-day/prompts/microcontrollers/">
       
       
-        <link rel="prev" href="../h-bridge/">
+        <link rel="prev" href="../displays/">
       
       
-        <link rel="next" href="../motors/">
+        <link rel="next" href="../../sims/">
       
       
       <link rel="icon" href="../../img/favicon.ico">
@@ -51,6 +51,10 @@
         <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
       
     
+    
+      <link rel="stylesheet" href="../../css/extra.css">
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -541,6 +545,10 @@
       
         
       
+        
+      
+        
+      
     
     
     
@@ -609,11 +617,95 @@
   
   
     <li class="md-nav__item">
+      <a href="../motors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Motor Circuit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../h-bridge/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     H-Bridge
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pwm-lab/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    PWM Lab
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sensors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sensors
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../displays/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Displays
   </span>
   
 
@@ -697,48 +789,6 @@
   
 </nav>
       
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../motors/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Motor Circuit
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../pwm-lab/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    PWM Lab
-  </span>
-  
-
-      </a>
     </li>
   
 
@@ -1004,10 +1054,20 @@
 
 <h1 id="microcontrollers">MicroControllers</h1>
 <p><img alt="" src="../../img/microcontrollers.jpg" /></p>
-<div class="highlight"><pre><span></span><code>The image above is a board we are using in our &quot;Robot Day&quot; to explain microcontrollers.  The centerpiece of robot day is a large robot corral full of about a dozen $19 collision avoidance robots built around the RP2040 microcontroller from the Raspberry Pi Foundation.  We want to get across the point the the new $4 Raspberry Pi Pico is a LOT more powerful then the old expensive $30 Arduino microcontrollers.  They all run MicroPython in our school&#39;s coding classes.
-
-Please generate a sample 5 minute dialog that a teacher/mentor/volunteer might have with an 8-year student that comes up to the table to talk about microcontrollers in our collision avoidance robots.
-</code></pre></div>
+<div class="admonition prompt">
+<p class="admonition-title">Prompt Text</p>
+<p>The image above is a board we are using in our "Robot Day" 
+to explain microcontrollers.  The centerpiece of robot day
+is a large robot corral full of about a dozen $19 collision
+avoidance robots built around the RP2040 microcontroller from
+the Raspberry Pi Foundation.  We want to get across the point
+the the new $4 Raspberry Pi Pico is a LOT more powerful then
+the old expensive $30 Arduino microcontrollers.  They all run
+MicroPython in our school's coding classes.</p>
+<p>Please generate a sample 5 minute dialog that a teacher/mentor/volunteer
+might have with an 8-year student that comes up to the table to
+talk about microcontrollers in our collision avoidance robots.</p>
+</div>
 <h2 id="sample-dialog-for-8-year-old">Sample Dialog for 8-Year Old</h2>
 <p>Teacher: Hi there! I see you’re interested in our robot station. Do you know what a microcontroller is?</p>
 <p>Student: Not really. What is a microcontroller?</p>
@@ -1096,7 +1156,7 @@ Please generate a sample 5 minute dialog that a teacher/mentor/volunteer might h
       <nav class="md-footer__inner md-grid" aria-label="Footer" >
         
           
-          <a href="../h-bridge/" class="md-footer__link md-footer__link--prev" aria-label="Previous: H-Bridge">
+          <a href="../displays/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Displays">
             <div class="md-footer__button md-icon">
               
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
@@ -1106,20 +1166,20 @@ Please generate a sample 5 minute dialog that a teacher/mentor/volunteer might h
                 Previous
               </span>
               <div class="md-ellipsis">
-                H-Bridge
+                Displays
               </div>
             </div>
           </a>
         
         
           
-          <a href="../motors/" class="md-footer__link md-footer__link--next" aria-label="Next: Motor Circuit">
+          <a href="../../sims/" class="md-footer__link md-footer__link--next" aria-label="Next: Index">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                Motor Circuit
+                Index
               </div>
             </div>
             <div class="md-footer__button md-icon">
@@ -1157,6 +1217,8 @@ Please generate a sample 5 minute dialog that a teacher/mentor/volunteer might h
     
     
       <script src="../../assets/javascripts/bundle.83f73b43.min.js"></script>
+      
+        <script src="../../js/copy-text.js"></script>
       
     
   </body>

@@ -15,10 +15,10 @@
         <link rel="canonical" href="https://dmccreary.github.io/robot-day/prompts/h-bridge/">
       
       
-        <link rel="prev" href="../batteries/">
+        <link rel="prev" href="../motors/">
       
       
-        <link rel="next" href="../microcontrollers/">
+        <link rel="next" href="../pwm-lab/">
       
       
       <link rel="icon" href="../../img/favicon.ico">
@@ -51,6 +51,10 @@
         <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
       
     
+    
+      <link rel="stylesheet" href="../../css/extra.css">
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -541,6 +545,10 @@
       
         
       
+        
+      
+        
+      
     
     
     
@@ -593,6 +601,27 @@
   
   <span class="md-ellipsis">
     Dialogs for the Batteries Table
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../motors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Motor Circuit
   </span>
   
 
@@ -688,53 +717,74 @@
   
   
     <li class="md-nav__item">
-      <a href="../microcontrollers/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    MicroControllers
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../motors/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Motor Circuit
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../pwm-lab/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     PWM Lab
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sensors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sensors
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../displays/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Displays
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../microcontrollers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MicroControllers
   </span>
   
 
@@ -1003,13 +1053,22 @@
 
 
 <h1 id="h-bridge">H-Bridge</h1>
-<p><img alt="" src="./" /></p>
+<p><img alt="" src="../../img/h-bridge.png" /></p>
 <h2 id="prompt">Prompt</h2>
-<div class="highlight"><pre><span></span><code>The image above describes an H-Bridge circuit for changing the direction of a motor.  We have an animated H-Bridge board that allows students to change the setting of four switches to make an pattern of LED lights simulate current flowing through a motor.
-
-Please generate a sample five-minute dialog between a teacher-volunteer-mentor and a student.
-The dialog should walk through showing the switch positions for forward (green LED with the theater chase pattern), reverse (blue LEDs with the theater chase pattern) and short circuit (red LEDs).  Both the left and right can be short circuited.
-</code></pre></div>
+<div class="admonition prompt">
+<p class="admonition-title">Prompt Text</p>
+<p>The image above describes an H-Bridge circuit for changing the
+direction of a motor.  We have an animated H-Bridge board that
+allows students to change the setting of four switches to make
+an pattern of LED lights simulate current flowing through a motor.</p>
+<p>Please generate a sample five-minute dialog between a
+teacher-volunteer-mentor and a student.
+The dialog should walk through showing the switch positions
+for forward (green LED with the theater chase pattern),
+reverse (blue LEDs with the theater chase pattern) and
+short circuit (red LEDs).<br />
+Both the left and right can be short circuited.</p>
+</div>
 <h2 id="sample-response-dialog">Sample Response Dialog</h2>
 <p><strong>Teacher:</strong> Hi there! Come check this out. We've got this cool H-Bridge demonstration board. It simulates how reversing the polarity of a motor's connections changes its direction. Do you know what an H-Bridge is?</p>
 <p><strong>Student:</strong> Not really. I see something that looks like the letter "H" and some switches, but I'm not sure how it works.</p>
@@ -1083,7 +1142,7 @@ The dialog should walk through showing the switch positions for forward (green L
       <nav class="md-footer__inner md-grid" aria-label="Footer" >
         
           
-          <a href="../batteries/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Dialogs for the Batteries Table">
+          <a href="../motors/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Motor Circuit">
             <div class="md-footer__button md-icon">
               
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
@@ -1093,20 +1152,20 @@ The dialog should walk through showing the switch positions for forward (green L
                 Previous
               </span>
               <div class="md-ellipsis">
-                Dialogs for the Batteries Table
+                Motor Circuit
               </div>
             </div>
           </a>
         
         
           
-          <a href="../microcontrollers/" class="md-footer__link md-footer__link--next" aria-label="Next: MicroControllers">
+          <a href="../pwm-lab/" class="md-footer__link md-footer__link--next" aria-label="Next: PWM Lab">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                MicroControllers
+                PWM Lab
               </div>
             </div>
             <div class="md-footer__button md-icon">
@@ -1144,6 +1203,8 @@ The dialog should walk through showing the switch positions for forward (green L
     
     
       <script src="../../assets/javascripts/bundle.83f73b43.min.js"></script>
+      
+        <script src="../../js/copy-text.js"></script>
       
     
   </body>
