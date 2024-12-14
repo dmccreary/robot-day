@@ -2,18 +2,17 @@
 
 ![](../img/motor-circuit.jpg)
 
-```linenums="0"
-The image above shows a battery
-pack with two AA batteries and some
-jumper wires connected to a small DC
-hobby motor that is connected to a 40-to-1
-gear reduction assembly for driving a
-wheel on a robot.  Please generate a sample
-dialog between a teacher/volunteer/mentor and
-a student about this circuit.  Describe
-how the polarity can be reversed to change
-the direction of a motor.
-```
+!!! prompt "Prompt Text"
+    The image above shows a battery
+    pack with two AA batteries and some
+    jumper wires connected to a small DC
+    hobby motor that is connected to a 40-to-1
+    gear reduction assembly for driving a
+    wheel on a robot.  Please generate a sample
+    dialog between a teacher/volunteer/mentor and
+    a student about this circuit.  Describe
+    how the polarity can be reversed to change
+    the direction of a motor.
 
 ## Sample 5-Year Old Dialog
 

@@ -4,27 +4,26 @@
 
 ## Sample Prompt
 
-```linenums="0"
-We have created a hands-on lab that teaches
-students what Pluse Width Modulation is
-an how it is used to change the direction
-and speed of a motor in a robot.
+!!! prompt "Prompt Text"
+    We have created a hands-on lab that teaches
+    students what Pluse Width Modulation is
+    an how it is used to change the direction
+    and speed of a motor in a robot.
 
-Our lab consists of a small plastic box with a
-potentiometer on the front side and a 128x64
-OLED display on the top of the box.
+    Our lab consists of a small plastic box with a
+    potentiometer on the front side and a 128x64
+    OLED display on the top of the box.
 
-When the student turns the potentiometer, the
-width of pulse on the display changes and the
-brightness of an LED changes.
+    When the student turns the potentiometer, the
+    width of pulse on the display changes and the
+    brightness of an LED changes.
 
-Please write a 5-minute dialog between a
-teacher-volunteer-mentor and a 10-year old
-student that is learning how STEM robots
-work.  The goal is to understand how the
-speed and direction of motors is controlled
-in a simple $19 collision avoidance robot.
-```
+    Please write a 5-minute dialog between a
+    teacher-volunteer-mentor and a 10-year old
+    student that is learning how STEM robots
+    work.  The goal is to understand how the
+    speed and direction of motors is controlled
+    in a simple $19 collision avoidance robot.
 
 ### Sample Response
 
