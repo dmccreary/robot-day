@@ -1,23 +1,22 @@
-# Dialogs for the Batteries Table
+# Batteries
 
 ![Poster Board of Battery Types](../img/batteries.jpg)
 
 ## Sample Prompt
 
-```linenums="0"
-The image above is a poster board we are using in our "Robot Day" to
-explain robot batteries.  The centerpiece of robot day is a large
-robot corral full of about a dozen $19 collision avoidance robots
-built around the RP2040 microcontroller from the Raspberry Pi
-Foundation.  We want to get across the point that all our robots
-need batteries to run and there are many
-different types of batteries we can choose from.
+!!! prompt "Prompt Text"
+    The image above is a poster board we are using in our "Robot Day" to
+    explain robot batteries.  The centerpiece of robot day is a large
+    robot corral full of about a dozen $19 collision avoidance robots
+    built around the RP2040 microcontroller from the Raspberry Pi
+    Foundation.  We want to get across the point that all our robots
+    need batteries to run and there are many
+    different types of batteries we can choose from.
 
-Please generate a sample 5 minute dialog that a 
-teacher/mentor/volunteer might have with an 8-year student that 
-comes up to the table to talk about batteries in our collision
-avoidance robots.
-```
+    Please generate a sample 5 minute dialog that a 
+    teacher/mentor/volunteer might have with an 8-year student that 
+    comes up to the table to talk about batteries in our collision
+    avoidance robots.
 
 ## 5-year Old Student (1st Grade)
 
