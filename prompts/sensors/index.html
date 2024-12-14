@@ -689,6 +689,17 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Sensors
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -698,6 +709,34 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#response" class="md-nav__link">
+    <span class="md-ellipsis">
+      Response
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -962,6 +1001,23 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#response" class="md-nav__link">
+    <span class="md-ellipsis">
+      Response
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -991,6 +1047,27 @@ board and how we use time-of-flight sensors to
 measure the distance between our robot and the
 wall of the corral wall that encloses our robots.</p>
 </div>
+<h2 id="response">Response</h2>
+<p><strong>Teacher:</strong> Hi there! Welcome to Robot Day! I see you're checking out our sensor board. Have you ever seen any of these sensors before?</p>
+<p><strong>Student:</strong> Not really. What do they all do?</p>
+<p><strong>Teacher:</strong> Great question! These sensors help robots sense the world around them. Some are really simple, like this <strong>micro-switch</strong>. When something presses on it, it acts like a bump sensor and tells the robot, "Hey, you hit something!" It's just an on-off signal.</p>
+<p><strong>Student:</strong> That's cool, but it seems pretty basic. What about the others?</p>
+<p><strong>Teacher:</strong> Good observation! As you go across the board, the sensors get more advanced. For example, this <strong>infrared sensor</strong> sends out invisible light and detects if something reflects it back. It's good for detecting obstacles, but it doesn't work well in bright sunlight.</p>
+<p><strong>Student:</strong> Okay, so it's more useful indoors?</p>
+<p><strong>Teacher:</strong> Exactly. Then we have the <strong>ultrasonic sensor</strong>, like this HC-SR04. It works like a bat! It sends out a high-pitched sound wave that humans can't hear, waits for it to bounce back, and calculates the distance to an object. This is great for measuring how far the robot is from a wall.</p>
+<p><strong>Student:</strong> That's so smart! Is that what you use in the robot corral?</p>
+<p><strong>Teacher:</strong> Actually, in our corral, we use a more advanced sensor called a <strong>Time-of-Flight sensor</strong>. It's this little one here, the VL53L0X. It works by sending out an infrared laser pulse and measuring how long it takes for the light to bounce back to the sensor. Since light travels incredibly fast, it can calculate the distance with amazing precision.</p>
+<p><strong>Student:</strong> Wow! So it's even faster than the ultrasonic sensor?</p>
+<p><strong>Teacher:</strong> Exactly. The ultrasonic sensor takes about 50 milliseconds to get a reading, while the Time-of-Flight sensor only takes 1 millisecond! That means it can react faster to changes, which is important when our robots are moving quickly.</p>
+<p><strong>Student:</strong> And it looks so small compared to the ultrasonic sensor!</p>
+<p><strong>Teacher:</strong> That's another advantage. Time-of-Flight sensors are tiny and lightweight, making them great for small robots. They also don't get confused by sound waves like the ultrasonic sensor might if there's a lot of noise in the room.</p>
+<p><strong>Student:</strong> What about this LIDAR? That looks even bigger.</p>
+<p><strong>Teacher:</strong> Good eye! LIDAR is like a Time-of-Flight sensor but on steroids. It spins around and measures distances in all directions, creating a 360-degree map of the robot's surroundings. It's super precise and can detect objects far away---up to 16 meters. But it's also very expensive, costing around $300, so it's not practical for small, low-cost robots like ours.</p>
+<p><strong>Student:</strong> Oh, so the Time-of-Flight sensor is better for our corral robots because it's small, fast, and affordable?</p>
+<p><strong>Teacher:</strong> You've got it! Our $19 collision-avoidance robots use these Time-of-Flight sensors to measure the distance to the walls of the corral. If the robot gets too close to a wall, the sensor tells it to stop and turn away before it bumps into anything.</p>
+<p><strong>Student:</strong> That makes sense. So each sensor has its own purpose, depending on the robot and what it needs to do.</p>
+<p><strong>Teacher:</strong> Exactly. Some sensors are simple and cheap, while others are more precise and expensive. For our robot corral, the Time-of-Flight sensor is the perfect balance of speed, size, and cost. Great questions! Keep exploring, and you'll be building your own robots in no time!</p>
+<p>4o</p>
 
 
 
