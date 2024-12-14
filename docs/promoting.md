@@ -40,6 +40,11 @@ Now for each idea, return a detailed plan of
 how to implement these ideas.
 ```
 
+!!! note
+    The following text was lightly edited to include links
+    directly to resources we manage.  The original
+    transcript is [here](https://chatgpt.com/share/675ad618-19ec-8001-b3f0-5c32245436c9)
+
 ### Host a Robotics Show-and-Tell Featuring Student Projects
 
 **Plan:**
@@ -73,7 +78,9 @@ how to implement these ideas.
 5.  **Awards:** Offer inexpensive rewards like printed certificates or a photo feature in the school newsletter.
 6.  **Showcase:** Display the completed robots in a hallway or library to inspire others.
 
-### Offer Short STEM Workshops Led by Tech-Savvy Parents or Alumni
+You can find examples of STEM Robots under $20 at the [STEM Robots website](https://dmccreary.github.io/stem-robots/).
+
+### Offer Short STEM Workshops Led by Tech-Savvy Teachers, Parents or Alumni
 
 **Plan:**
 
@@ -83,6 +90,8 @@ how to implement these ideas.
 4.  **Classroom Setup:** Provide a classroom with basic tech (computers or tablets, if possible). For hands-on sessions, prepare simple kits or online simulators.
 5.  **Student Registration:** Have students sign up for the workshops in advance to manage class size.
 6.  **Follow-Up Materials:** Provide participants with a one-page cheat sheet or link to online resources so they can continue exploring after the event.
+
+You can find a detailed plan in our [Two Hour STEM Robot Workshop for Teachers](https://dmccreary.github.io/stem-robots/course-descriptions/two-hour-hands-on/).
 
 ### Create a Virtual Tour of Local Tech Companies' Robotics Labs
 
@@ -105,6 +114,7 @@ how to implement these ideas.
 4.  **Progressive Challenges:** Start with a super-simple tutorial, then provide slightly harder challenges as students advance.
 5.  **Showcase Success:** Encourage students to show their finished projects on a shared screen. Print out "I'm a Coder!" badges or stickers.
 6.  **Take-Home Links:** Provide links to continue learning at home, encouraging sustained interest beyond Robots Day.
+
 
 ### Launch a "Robot Mascot" Design Competition with Simple Art Supplies
 

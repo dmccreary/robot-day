@@ -18,11 +18,13 @@ This is the table that has both the student checklists and the badges.
 
 ### Challenge Scripts for the Welcome Table
 
-"Do you like robots?"
+*"Do you like robots?"*
 
-"Would you like to take a robot challenge?"
+*"Would you like to take a robot challenge?"*
 
-If you complete all six challenges you will earn a "Robot Expert" sticker.
+*If you complete all six challenges you will earn a "Robot Expert" sticker.*
+
+If they say yes, guide them to the welcome table and strongly encourage them to put their name at the top of a checklist of six tables.
 
 ## Batteries Table
 
@@ -66,6 +68,10 @@ Here are some short video demos of the project boxes:
 ## Display Table
 
 ![](./img/displays.jpg)
+
+Our display table has about a dozen different types of robot displays.  We start out talking about how a single LED can tell you the status of a robot such as "I have power".  LEDs are very inexpensive (about a penny each) and easy to hook up.
+
+From there we slowly build up to more complicated graphical displays.  Our favorite display is the 128x64 OLED display.  Our [robot faces](https://dmccreary.github.io/robot-faces/) use these displays.
 
 [Displays](./activities/displays.md)
 
