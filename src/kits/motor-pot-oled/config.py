@@ -1,0 +1,12 @@
+MOTOR_FORWARD_PIN = 8
+MOTOR_REVERSE_PIN = 9
+POT_PIN_1 = 26
+
+# Black - GND
+# Red - 3.2Vold
+SCK_PIN = 2
+SDA_PIN = 3
+# Servo Pins
+RES_PIN = 12
+DC_PIN = 13
+CS_PIN = 14
