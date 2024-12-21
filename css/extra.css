@@ -1,3 +1,12 @@
+.md-header__button.md-logo {
+    margin: 0;
+    padding: 0;
+}
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 48px;
+    width: 70px;
+}
+
 /* Custom styling for Prompt Admonition */
 .admonition.prompt {
     background-color: #f4f8ff; /* Light blue background */
