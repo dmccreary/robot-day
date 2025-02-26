@@ -8,6 +8,7 @@ repo_url: 'https://github.com/dmccreary/robot-day'
 nav:
   - Robot Day Home: index.md
   - About: about.md
+  - Course Description: course-description.md
   - Process: process.md
   - Personas: personas.md
   - Concepts: concepts.md
@@ -54,8 +55,9 @@ nav:
     - prompts/sensors.md
     - prompts/displays.md
     - prompts/microcontrollers.md
-  - Sims:
+  - MicroSims:
     - sims/index.md
+    - sims/learning-graph/index.md
     - sims/pwm/index.md
   - Promoting Robot Day: promoting.md
   - Topic Lists: topic-list.md

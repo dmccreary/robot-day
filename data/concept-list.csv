@@ -1,0 +1,201 @@
+ConceptID,ConceptLabel
+1,Batteries
+2,Battery Voltage and Capacity
+3,Testing Batteries
+4,Rechargeable Batteries
+5,Power Management in Robots
+6,Battery Life and Robot Performance
+7,DC Motors
+8,Motor Drivers
+9,Basic Motor Control Circuits
+10,Reversing Motor Direction
+11,Motor Speed Control
+12,Gearboxes and Torque
+13,Switches for Motor Control
+14,H-Bridge Circuits
+15,Pulse Width Modulation (PWM)
+16,Motor Speed Regulation
+17,Directional Control with H-Bridges
+18,Motor Control and Turning
+19,Sensors
+20,Buttons and Switches
+21,How Buttons Control Robots
+22,Rotary Encoders
+23,Time-of-Flight Sensors
+24,Ultrasonic Sensors
+25,Compass Sensors (Magnetometers)
+26,Tilt and Turn Sensors (Accelerometers)
+27,Sensor Integration with Microcontrollers
+28,Sensor Calibration
+29,Sensor Data Display
+30,LEDs (Light Emitting Diodes)
+31,RGB LEDs
+32,LED Strips
+33,OLED Displays
+34,Smartwatch Displays
+35,Display Interfaces (I2C and SPI)
+36,Display Resolution and Color Depth
+37,Power Consumption of Displays
+38,Cost vs. Quality Trade-Offs in Displays
+39,Definition of a Microcontroller
+40,Microcontroller Architecture
+41,Programming Microcontrollers
+42,Input/Output Pins
+43,Analog-to-Digital Converters (ADCs)
+44,Digital-to-Analog Converters (DACs)
+45,Timers and Interrupts
+46,Serial Communication
+47,Embedded Systems
+48,Robot Control Algorithms
+49,Collision Avoidance Strategies
+50,User Interface for Robot Settings
+51,Observing Robot Behavior
+52,Interaction Between Multiple Robots
+53,Collision Avoidance in Practice
+54,Sensor Feedback Loops
+55,Real-Time Control Systems
+56,Battery Chemistry
+57,Rechargeable vs. Non-Rechargeable Batteries
+58,Battery Holders and Connectors
+59,Voltage Regulation
+60,Current Draw and Motor Performance
+61,Battery Monitoring
+62,Brushless DC Motors
+63,Stepper Motors
+64,Servo Motors
+65,Motor Encoders for Feedback
+66,Motor Sizing for Robots
+67,Power Transmission
+68,Transistors in Motor Control
+69,Relays for Motor Switching
+70,Motor Driver ICs
+71,PWM Frequency and Duty Cycle
+72,Closed-Loop Motor Control
+73,PID Control for Motors
+74,Pull-Up and Pull-Down Resistors
+75,Interrupt-Driven Button Presses
+76,Incremental vs. Absolute Encoders
+77,Quadrature Encoding
+78,Laser-Based Distance Measurement
+79,I2C Communication with Sensors
+80,Sound Wave Propagation
+81,Trigger and Echo Pins
+82,Magnetic Field Detection
+83,Calibration for Hard and Soft Iron Effects
+84,Accelerometer Principles
+85,Gravity Vector and Orientation
+86,Sensor Fusion
+87,Noise Filtering
+88,Sensor Mounting and Placement
+89,Current Limiting Resistors
+90,Charlieplexing
+91,Color Mixing in RGB LEDs
+92,PWM for Color Control
+93,Addressable LEDs (e.g., WS2812)
+94,Data Protocols for LED Strips
+95,Pixel Addressing in OLEDs
+96,Graphics Libraries for Displays
+97,Touchscreen Interfaces
+98,Wearable Display Considerations
+99,Refresh Rates
+100,Power Saving Techniques for Displays
+101,Microcontroller Selection Criteria
+102,Clock Speed and Performance
+103,Memory Types (RAM, Flash)
+104,Bootloaders
+105,Firmware Updates
+106,Real-Time Operating Systems (RTOS)
+107,State Machines in Robot Control
+108,Finite State Automata
+109,Behavior-Based Robotics
+110,Path Planning Algorithms
+111,Obstacle Detection and Avoidance
+112,Localization and Mapping (SLAM)
+113,Sensor Data Processing
+114,Actuator Control
+115,Feedback Loops
+116,Control System Stability
+117,Embedded Programming Languages
+118,Development Environments (IDEs)
+119,Debugging Techniques
+120,Version Control for Firmware
+121,Multi-Robot Coordination
+122,Emergent Behavior
+123,Human-Robot Interaction
+124,Safety in Robot Environments
+125,Performance Metrics for Robots
+126,RP2040 Microcontroller
+127,Dual-Core Processing
+128,Programmable I/O (PIO)
+129,USB Connectivity
+130,GPIO Pins
+131,Analog Inputs
+132,PWM Outputs
+133,I2C and SPI Buses
+134,Onboard Sensors or Features
+135,Braitenberg Vehicles
+136,Potential Fields Method
+137,Vector Field Histogram
+138,Bug Algorithms
+139,Wall Following
+140,Obstacle Detection Thresholds
+141,Hands-On Learning
+142,Inquiry-Based Learning
+143,STEM Education
+144,Robotics as a Teaching Tool
+145,Accessibility in Robotics
+146,Inclusive Design
+147,Cost-Effective Robotics
+148,Open-Source Hardware
+149,DIY Robotics
+150,Component Sourcing
+151,Budgeting for Robot Projects
+152,Gamification in Education
+153,Motivation Through Challenges
+154,Reward Systems
+155,Participant Engagement Strategies
+156,Event Planning for STEM Outreach
+157,Space Configuration for Interactive Exhibits
+158,Facilitator Training
+159,Volunteer Management
+160,Safety Protocols for Public Events
+161,Definition of a Robot
+162,History of Robotics
+163,Applications of Robotics
+164,Robotics in Industry
+165,Robotics in Healthcare
+166,Robotics in Space Exploration
+167,Ethical Considerations in Robotics
+168,Robotics and AI
+169,Machine Learning in Robotics
+170,Computer Vision in Robotics
+171,Proximity Sensing
+172,Range Finding
+173,Object Detection
+174,Environment Mapping
+175,Orientation Detection
+176,Heading Calculation
+177,Navigation
+178,Inclinometer Applications
+179,Stability Control
+180,Gesture Recognition
+181,Status Indicators
+182,User Feedback
+183,Debugging Interfaces
+184,Data Visualization
+185,Reading Sensor Data
+186,Decision-Making Algorithms
+187,Motor Control Based on Sensor Input
+188,Threshold Settings for Obstacle Detection
+189,Speed Adjustment Based on Distance
+190,Turning Strategies
+191,State Management in Robots
+192,Error Handling
+193,Power Management for Longevity
+194,Wireless Communication
+195,Bumper Switches
+196,Whisker Sensors
+197,Infrared Sensors
+198,Analog Sensor Reading
+199,Digital Sensor Reading
+200,Interrupt Service Routines

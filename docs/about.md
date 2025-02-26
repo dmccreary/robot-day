@@ -2,9 +2,18 @@
 
 ![Robot Day Banner](./img/robot-day-banner.png){ width="500" }
 
-This Robot Day website was created by [Dan McCreary](https://www.linkedin.com/in/danmccreary/) after he choreographed a successful Robot Day in December of 2023.  Although he had lots of material for helping organizations create their own Robot Days, the content was spread over many websites.  It was time for all the content
+This Robot Day website was created by [Dan McCreary](https://www.linkedin.com/in/danmccreary/) after he choreographed a successful Robot Day in December of 2023 at the Bakken Science Museum in Minneapolis.  Although he had lots of material for helping organizations create their own Robot Days, the content was spread over many websites.  It was time for all the content
 used in creating a Robot Day to come together as one unified resource to support
 fast searching and for everyone to share.
+
+## What is Robot Day?
+
+Robot day is where an organization takes over a large room for a single-day event.
+The room is configured to allow participants to enter through a door and then be greeted by a person that offers them a challenge such as *"Would you like to take our robot challenge?  If you succeed you will get this robot expert sticker"*.
+
+The participants are then given a checklist of around six "tables" that they must visit to finish the challenge.
+
+The event is configured to show all the components of a collision avoidance robot.  The robot is constructed from around $19 of parts built around a low-cost microcontroller board such as the Cytron Maker Pi RP2040 board.
 
 ## Philosophy
 
