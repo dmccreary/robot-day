@@ -47,7 +47,11 @@ nav:
     - Displays:
       - NeoPixels: lessons/neopixel.md
   - Prompts:
-    - prompts/index.md
+    - Introduction: prompts/index.md
+    - Learning Graph:
+      - Introduction: prompts/learning-graph/index.md
+      - Concept Dependencies: prompts/learning-graph/concept-dependencies.md
+      - Concept Enumeration: prompts/learning-graph/concept-enumeration.md
     - prompts/batteries.md
     - prompts/motors.md
     - prompts/h-bridge.md
