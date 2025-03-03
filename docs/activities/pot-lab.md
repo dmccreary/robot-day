@@ -11,4 +11,4 @@ There are two types of displays:
 2. A medium cost that uses an OLED display.  This allows the students
 to see the history of their turning the knob.
 
-[OLED Sample Code on MicroPython for Kids](https://www.coderdojotc.org/micropython/displays/graph/12-oled-pot/)
+[OLED Sample Code on Learning MicroPython](https://dmccreary.github.io/dmccreary/micropython/displays/graph/12-oled-pot/)
