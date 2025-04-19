@@ -2,14 +2,13 @@
 
 ## Prompt
 
-```linenums="0"
-Please help us brainstorm on ideas to help promote a
-Robot Day at a school. Our goal is to find cost-effective
-ways to get our stakeholders excited about promoting
-STEM and AI in our school.
+!!! prompt
+    Please help us brainstorm on ideas to help promote a
+    Robot Day at a school. Our goal is to find cost-effective
+    ways to get our stakeholders excited about promoting
+    STEM and AI in our school.
 
-Return each suggested idea in a level three markdown header.
-```
+    Return each suggested idea in a level three markdown header.
 
 ## Response
 
