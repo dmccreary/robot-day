@@ -1,18 +1,18 @@
 # Why Exploration over Competition
 
-![](./img/competitive-robotics-v3.png)
+![](./img/competitive-robotics-v4.png)
 
 <!--
 Create an image of two junior-high students teams at a competitive robotics event.
-Each team has four members of mixed race and gender. 
+Each team has one robot and four students of mixed race and gender.
 
-The team on the left is called "Big Money Robotics".  It has ultramodern high-tech and very expensive intimidating robot gear.  They have big trophies in the background. The team is very proud of their robot and full of gloating faces.  They are very confident they will win.
+The team on the left is called "Big Money Robotics".  Their fancy polo shirts are bright red.  It has ultramodern high-tech, shiny chrome and very expensive intimidating robot.  They have big trophies in the background. The team is very proud of their robot and full of gloating faces.  They are very confident they will win.
 
-The team on the other side is called "Underfunded Robots" and has very old rusty robot that is falling apart.  The team members are full of anxiety and they look fearful.
+The team on the right side is called "Underfunded Robots".  Their old t-shirts worn t-shirts are blue. They have a very old rusty robot that is falling apart.  The team members are full of anxiety and they look fearful.
 
-Use a studio Ghibli-style rendering.
+Use a studio Ghibli-style rendering but use bright colors and colorful style.
 
-Make both groups have four students of mixed race and gender.
+Make both groups have one robot and four students.  The students are of mixed race and gender.
 
 -->
 
