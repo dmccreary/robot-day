@@ -1,5 +1,21 @@
 # Why Exploration over Competition
 
+![](./img/competitive-robotics-v3.png)
+
+<!--
+Create an image of two junior-high students teams at a competitive robotics event.
+Each team has four members of mixed race and gender. 
+
+The team on the left is called "Big Money Robotics".  It has ultramodern high-tech and very expensive intimidating robot gear.  They have big trophies in the background. The team is very proud of their robot and full of gloating faces.  They are very confident they will win.
+
+The team on the other side is called "Underfunded Robots" and has very old rusty robot that is falling apart.  The team members are full of anxiety and they look fearful.
+
+Use a studio Ghibli-style rendering.
+
+Make both groups have four students of mixed race and gender.
+
+-->
+
 ## Why Competitive STEM Events Can Be Problematic
 
 Competitive STEM events, while valuable in many ways, can create several barriers to participation:
