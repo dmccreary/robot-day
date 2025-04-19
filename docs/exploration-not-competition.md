@@ -4,26 +4,27 @@
 
 Competitive STEM events, while valuable in many ways, can create several barriers to participation:
 
-1.  **Emphasis on winning over learning**
+### 1.  **Emphasis on winning over learning**
 
--   When the focus is primarily on competition, students who are still developing skills may feel discouraged
--   The pressure to win can overshadow the joy of discovery and experimentation
+- When the focus is primarily on competition, students who are still developing skills may feel discouraged
+- The pressure to win can overshadow the joy of discovery and experimentation
 
-2.  **Access inequality**
+### 2.  **Access inequality**
 
 -   Schools and communities with more resources can provide better equipment, mentorship, and preparation
 -   Students from under-resourced schools start at a disadvantage
-3.  **Gender and cultural biases**
+
+### 3.  **Gender and cultural biases**
 
 -   Traditional competitive formats may inadvertently favor communication and collaboration styles more common among certain demographics
 -   Historically male-dominated STEM fields can create environments where girls and non-binary students feel unwelcome
 
-4.  **Fixed mindset reinforcement**
+### 4. **Fixed mindset reinforcement**
 
 -   Competition can reinforce the idea that STEM ability is innate rather than developed
 -   Students who don't succeed immediately may conclude they "aren't good at STEM"
 
-5.  **Anxiety and stress**
+### 5. **Anxiety and stress**
 
 -   High-pressure competitive environments can trigger performance anxiety
 -   This particularly affects students who might already feel they don't belong in STEM
@@ -43,25 +44,25 @@ This type of approach tends to be more inclusive and can attract a more diverse 
 
 There are many concerns about competitive STEM events and their potential drawbacks.  There is ample research that supports the concerns about competitive STEM events and their potential negative effects on inclusivity and participation. Here are the key research-backed findings:
 
-## Competition vs. Collaboration Research
+### Competition vs. Collaboration Research
 
 Research indicates that students have a qualitatively better experience when working collaboratively rather than competitively. In fact, in a meta-analysis comparing cooperative versus competitive student interactions on problem-solving tasks, the cooperative groups consistently outperformed individuals across all forms of problem-solving.
 
 When STEM classroom activities are structured as competitions designed to make learning "fun" rather than meaningful, they can generate significant drawbacks including "increased anxiety and lower academic performance."
 
-## Institutional Factors
+### Institutional Factors
 
 According to research by Espinosa (2011), many colleges (particularly "predominantly White, large public research institutions") perpetuate learning environments characterized by "impersonal, large classrooms; unapproachable professors; and competitive grading practices resultant from a system that actively attempts to 'weed' students out of STEM majors."
 
 McGee (2020) suggests that many "Eurocentric" STEM departments sustain a culture of "meritocracy," "unrelenting competition," and other factors that can disproportionately disadvantage students from underrepresented groups.
 
-## Inequitable Access
+### Inequitable Access
 
 Studies show inequality in access to STEM courses at the earliest stages of K-12 education, which exacerbates broader nationwide issues in pay discrepancy.
 
 When educational systems reward demonstrated excellence over funding equitable opportunities for hands-on, dynamic STEM lessons and activities, the system produces fewer students overall who are prepared to meet the rigors of the 21st-century workplace.
 
-## Alternative Approaches
+### Alternative Approaches
 
 The research also points to effective alternatives to competitive models:
 
@@ -71,7 +72,7 @@ The National Science Foundation's INCLUDES initiative emphasizes that rather tha
 
 Singapore, which consistently tops the charts in PISA rankings for math, reading and science, also ranks first in collaborative problem-solving, suggesting that their emphasis on collaboration and shared learning (as opposed to winner-takes-all competition) contributes to their educational success.
 
-The Robot Day format in your original document aligns well with these research findings by focusing on exploration and hands-on learning rather than competition, creating a more inclusive environment that encourages participation from a diverse range of students.
+The Robot Day format aligns well with these research findings by focusing on exploration and hands-on learning rather than competition, creating a more inclusive environment that encourages participation from a diverse range of students.
 
 ## References
 
