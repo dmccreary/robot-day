@@ -4,30 +4,30 @@
 
 Competitive STEM events, while valuable in many ways, can create several barriers to participation:
 
-### 1.  **Emphasis on winning over learning**
+### 1. Emphasis on winning over learning
 
 - When the focus is primarily on competition, students who are still developing skills may feel discouraged
 - The pressure to win can overshadow the joy of discovery and experimentation
 
-### 2.  **Access inequality**
+### 2. Access inequality
 
--   Schools and communities with more resources can provide better equipment, mentorship, and preparation
--   Students from under-resourced schools start at a disadvantage
+- Schools and communities with more resources can provide better equipment, mentorship, and preparation
+- Students from under-resourced schools start at a disadvantage
 
-### 3.  **Gender and cultural biases**
+### 3. Gender and cultural biases
 
 -   Traditional competitive formats may inadvertently favor communication and collaboration styles more common among certain demographics
 -   Historically male-dominated STEM fields can create environments where girls and non-binary students feel unwelcome
 
-### 4. **Fixed mindset reinforcement**
+### 4. Fixed mindset reinforcement
 
--   Competition can reinforce the idea that STEM ability is innate rather than developed
--   Students who don't succeed immediately may conclude they "aren't good at STEM"
+- Competition can reinforce the idea that STEM ability is innate rather than developed
+- Students who don't succeed immediately may conclude they "aren't good at STEM"
 
-### 5. **Anxiety and stress**
+### 5. Anxiety and stress
 
--   High-pressure competitive environments can trigger performance anxiety
--   This particularly affects students who might already feel they don't belong in STEM
+- High-pressure competitive environments can trigger performance anxiety
+- This particularly affects students who might already feel they don't belong in STEM
 
 ## Robot Day: An Alternative Approach
 
@@ -52,9 +52,9 @@ When STEM classroom activities are structured as competitions designed to make l
 
 ### Institutional Factors
 
-According to research by Espinosa (2011), many colleges (particularly "predominantly White, large public research institutions") perpetuate learning environments characterized by "impersonal, large classrooms; unapproachable professors; and competitive grading practices resultant from a system that actively attempts to 'weed' students out of STEM majors."
+According to research by [Lorelle Espinosa](https://sloan.org/about/staff/lorelle-espinosa) at the Sloan Foundation, many colleges (particularly "predominantly White, large public research institutions") perpetuate learning environments characterized by "impersonal, large classrooms; unapproachable professors; and competitive grading practices resultant from a system that actively attempts to 'weed' students out of STEM majors."
 
-McGee (2020) suggests that many "Eurocentric" STEM departments sustain a culture of "meritocracy," "unrelenting competition," and other factors that can disproportionately disadvantage students from underrepresented groups.
+[McGee (2020)](https://www.researchgate.net/publication/347535853_Interrogating_Structural_Racism_in_STEM_Higher_Education) suggests that many "Eurocentric" STEM departments sustain a culture of "meritocracy," "unrelenting competition," and other factors that can disproportionately disadvantage students from underrepresented groups.
 
 ### Inequitable Access
 
@@ -74,11 +74,55 @@ Singapore, which consistently tops the charts in PISA rankings for math, reading
 
 The Robot Day format aligns well with these research findings by focusing on exploration and hands-on learning rather than competition, creating a more inclusive environment that encourages participation from a diverse range of students.
 
+## The Case for Appealing Sparingly to the Competitive Urge in STEM Education
+
+
+Competition has long been a default strategy for engaging students in STEM learning. From science fairs to robotics contests, we've traditionally incentivized participation through the promise of winning. While some competitive elements can spark interest, the research increasingly suggests that educators should "appeal sparingly to the competitive urge" when designing STEM events. This approach isn't about eliminating competition entirely, but rather being intentional and judicious in its application.
+
+### Competition Creates Unintended Barriers
+
+When STEM activities become primarily about winning, we inadvertently create environments that favor certain students while alienating others. This competitive framework can trigger increased anxiety and even lower academic performance in many participants. Rather than inspiring all students, competition-heavy environments often reinforce existing disparities in confidence and perceived ability.
+
+Particularly concerning is how competitive frameworks disproportionately affect students from underrepresented groups in STEM. Students who don't see themselves reflected in the field already battle against stereotype threat - the added pressure of competitive evaluation can further magnify these psychological barriers.
+
+### Collaboration Outperforms Competition in Learning Outcomes
+
+Research comparing cooperative versus competitive student interactions demonstrates that cooperative groups consistently outperform competitive individuals across all forms of problem-solving. This suggests that our emphasis on competition may actually be counterproductive to our fundamental learning objectives.
+
+Singapore, which consistently leads global PISA rankings in math, reading, and science, also ranks first in collaborative problem-solving. Their educational approach emphasizes collaboration and shared learning rather than winner-takes-all competition, suggesting a correlation between collaborative educational models and educational success.
+
+### The Equitable Alternative
+
+The evidence strongly suggests that STEM education is most effective when it:
+
+1.  **Emphasizes collaboration over competition** - Creating opportunities for students to work together toward shared goals
+2.  **Focuses on process rather than product** - Rewarding innovative thinking and persistence rather than just successful outcomes
+3.  **Creates inclusive learning environments** - Ensuring all students feel they belong and can contribute
+4.  **Uses competition strategically and sparingly** - Introducing competitive elements that enhance rather than dominate the learning experience
+
+When competitive elements are included, they should be carefully designed to:
+
+-   Focus on personal improvement rather than outperforming peers
+-   Ensure equal access to resources and preparation
+-   Emphasize team-based rather than individual competition
+-   Reward multiple forms of excellence, not just a single winner
+
+## Conclusion
+
+The question isn't whether competition has a place in STEM education --- it's about finding the right balance. By appealing sparingly to the competitive urge, educators can harness its motivational benefits while minimizing its exclusionary effects. This balanced approach creates STEM learning environments that are not only more equitable but also more effective at developing the collaborative problem-solving skills today's students will need in tomorrow's workforce.
+
+The goal should be to design STEM experiences that inspire all students to engage deeply with content, develop resilience in the face of challenges, and see themselves as capable contributors to scientific discovery. By thoughtfully limiting competitive elements, we create spaces where a diverse range of students can thrive, ultimately strengthening the STEM pipeline and enriching the field with varied perspectives and approaches.
+
 ## References
 
-1.  [Inclusion in practice: a systematic review of diversity-focused STEM programming in the United States | International Journal of STEM Education](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00387-3)
-2.  [Competition versus collaboration in STEM education | Silicon Republic](https://www.siliconrepublic.com/careers/collaboration-stem-education)
+1.  [Competition versus collaboration in STEM education | Silicon Republic](https://www.siliconrepublic.com/careers/collaboration-stem-education) 2 Jan 2018
+
+2.  [Inclusion in practice: a systematic review of diversity-focused STEM programming in the United States | International Journal of STEM Education](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00387-3) - 06 January 2023 - Palid, O., Cashdollar, S., Deangelo, S. et al. IJ STEM Ed 10, 2.
+
 3.  [Fostering Inclusivity in STEM Teaching: Tips and Best Practices | Plantae](https://plantae.org/fostering-inclusivity-in-stem-teaching-tips-and-best-practices/)
+
 4.  [The U.S. Should Strengthen STEM Education to Remain Globally Competitive | CSIS](https://www.csis.org/blogs/perspectives-innovation/us-should-strengthen-stem-education-remain-globally-competitive)
+
 5.  [INCLUDES: Making a collective impact to broaden participation in STEM | NSF](https://www.nsf.gov/science-matters/includes-making-collective-impact-broaden)
+
 6.  [Creating inclusive classrooms by engaging STEM faculty in culturally responsive teaching workshops | International Journal of STEM Education](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-00230-7)
