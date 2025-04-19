@@ -51,6 +51,7 @@ nav:
     - Introduction: prompts/index.md
     - Learning Graph:
       - Introduction: prompts/learning-graph/index.md
+      - Course Description: prompts/learning-graph/course-description.md
       - Concept Dependencies: prompts/learning-graph/concept-dependencies.md
       - Concept Enumeration: prompts/learning-graph/concept-enumeration.md
     - prompts/batteries.md
