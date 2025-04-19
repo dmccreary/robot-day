@@ -83,6 +83,10 @@ The [RGB Box](./activities/rgb-box.md) is somewhat of a special case.  It fits m
 
 The underlying goal is to be as flexible as possible and not force activities that are not age-appropriate for your audience.  Having a rich set of dialogs ready for each age group used to be challenging.  With tools like ChatGPT, lesson plans for all ages can be generated and taped to the back of the presentation boards.
 
+## Reduced Emphasis on Competitive
+
+There is ample research to show that 
+
 ## Creative Commons License
 
 All content is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0 DEED)
